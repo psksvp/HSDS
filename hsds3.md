@@ -1558,7 +1558,7 @@ students, taking the opportunity to teach them valuable lessons.
 
 004
 
-[(Meh)]{.italic}
+
 *Note: It's quite possible that my translations in regarding the Book
 of Changes are off. I don't know anything about Taoist teachings, so I
 can only make literal translations. Quite frankly, I have no clue what
@@ -2339,7 +2339,7 @@ life-and-death battle, they all regretted the past years of inner
 turmoil. No one brought up any past differences, as everyone rested
 peacefully on Brightness Peak, healing their injuries.
 
-[(Continued by dgfds01)]{.italic}
+
 Though Zhang Wuji's injuries were not light, Zhou Zhirou's sword had
 missed his heart and lungs by a few inches. With the aid of his
 completed Art of Nine Yang, after convalescing for seven or eight days,
@@ -6720,7 +6720,7 @@ Bennet)
 
 
 
-[(Huang Rong, edited by Han Solo)]{.italic}
+
 
 Everyone was worried about Zhang Wuji's injury so they did not attend to
 the pursuit and instead effusively surrounded him. Wuji showed a faint
@@ -7231,7 +7231,7 @@ why did you give them to a maidservant?
 why did you regard them just as dirt and dust?
 They are not counted as my sincere wishes are they?'
 
-[(Foxs, edited by Eliza Bennet)]{.italic}
+
 Zhang Wuji read this note three times; he was pleasantly surprised but
 also ashamed. Hastily he examined the pearl head ornament and tried to
 twist the pearls one by one. Finally he found one he could unscrew and
@@ -15876,7 +15876,7 @@ beautiful hair. Her Sword made a slanted circle as she threw herself
 toward Miaofeng Shi, while her Yitian Sword followed behind.
 
 This move was called the 'ren gui tong tu' [man and ghost travel
-together\], a Kongtong Pai suicidal move, similar to Kunlun Pai's 'yu
+together], a Kongtong Pai suicidal move, similar to Kunlun Pai's 'yu
 sui kun gang'; both were used as one was certain he or she would
 definitely lost, then his or her only hope would be to die together with
 the enemy. Shaolin and Emei, two Buddhist sects did not have this kind
@@ -15889,41 +15889,41 @@ martial arts while their internal energy was gone. Because they knew it
 was impossible for them to score any victory, some hot-tempered masters
 had used these kinds of stances. Unfortunately, their strength was not
 enough and they failed in their attempts, giving Zhao Min the
-opportunity to memorize these stances, one-by-one, in her heart.\
-\
+opportunity to memorize these stances, one-by-one, in her heart.
+
 Seeing her coming his way in this violent manner, Miaofeng Shi was
 shocked; his body turned cold and he froze. Although his martial art
 skill was high, his courage was lacking. Seeing this kind of move, he
 was unable to parry; he was so intimidated that he stood as stiff as a
 corpse, with hands froze in the air, waiting for death. In the meantime,
 Zhao Min's body had already reached the Sheng Huo Ling in his hand;
-shaking out her Sword, she stabbed Miaofeng Shi's chest.\
-\
+shaking out her Sword, she stabbed Miaofeng Shi's chest.
+
 The principle of this stance was throwing one's body to the enemy's
 weapon first, and then, as the weapon, be it saber or sword, spear or
 axe, was still in one's body that the enemy's movement was temporarily
 delayed, one would stab one's sword. Even if the enemy's martial art
-skill were higher, they would not be able to escape.\
-\
+skill were higher, they would not be able to escape.
+
 Miaofeng Shi was scared to death to see this fierce attack. Fortunately,
 the weapon in his hand was the Sheng Huo Ling, which looked like an iron
 ruler, without any sharp edge. As Zhao Min's body landed on the weapon,
 she was unharmed. Her Sword had barely stabbed forward when her back was
 grabbed by Huiyue Shi. The Persian Three Emissaries' collaboration in
-fighting the enemy together was truly marvelous beyond imagination.\
-\
+fighting the enemy together was truly marvelous beyond imagination.
+
 Zhao Min's two suicidal moves had thrown three martial art masters into
 confusion; until this time, Huiyue Shi only managed to grab Zhao Min's
 back. Her grab seemed ordinary, but actually it was very accurate and
 swift like a meteor. Although Zhao Min's sword was also swift and
-fierce, it still failed to reach Miaofeng Shi's body in the end.\
-\
+fierce, it still failed to reach Miaofeng Shi's body in the end.
+
 As Zhao Min felt her arm tighten, she knew something was amiss, she did
 not resist the pull, she let her body fall backwards at the same time
 turned her sword around and stabbed her own lower abdomen. This suicidal
 stance was even fiercer than the previous ones; it was a part of Wudang
-Pai's sword technique called the 'tian di tong sui' \[heaven and earth
-live together\]. Actually, it was not created by Zhang Sanfeng, but came
+Pai's sword technique called the 'tian di tong sui' [heaven and earth
+live together]. Actually, it was not created by Zhang Sanfeng, but came
 from Yin Liting's painstaking effort; he meant to use it against Yang
 Xiao. Ever since Ji Xiaofu died, he could think nothing else but how to
 kill Yang Xiao to avenge her death; yet he realized his martial art
@@ -15933,16 +15933,16 @@ limited; his comprehension was only about 30, 40% of his Shifu's skill.
 In any case, after killing Yang Xiao he did not think to live anyway,
 hence on the Wudang mountain he painstakingly thought of several moves,
 which might enable him to kill the enemy while disregarding his own
-life.\
-\
+life.
+
 Yin Liting trained his sword in secret. One time Zhang Sanfeng saw him.
 He sighed, knowing that whatever he said, Yin Liting could not be
 persuaded. Thereafter he named this stance 'tian di tong shou', meaning
 that after someone dies, the spirit becomes immortal, it will live for
 tens of thousand springs (season). Hence, in actuality, it was a solemn
 and stirring sword move to take away the shell in which that spirit
-resides.\
-\
+resides.
+
 Yin Liting's senior disciple was trying to use this stance at the Wan An
 Temple; luckily Fan Yao saved him. Zhao Min saw it and this time she
 used it. This move could be used to kill an enemy who was grabbing one
@@ -15951,88 +15951,88 @@ through to the enemy's lower abdomen; how would Huiyue Shi escape? If
 Miaofeng Shi was not scared out of his wits and Liuyun Shi was standing
 close by, then the two of them might be able to save her, since Huiyue
 Shi and her partners had been working together long enough that they
-developed an alertness as if they were one person.\
-\
+developed an alertness as if they were one person.
+
 They saw the Yitian Sword was about to pierce Zhao Min and Huiyue Shi's
 lower abdomen. Right at this crucial moment Zhang Wuji succeeded in
 breaking through his sealed acupoint. Quickly he reached out to seize
 the Yitian Sword. Zhao Min struggled to free herself from Huiyue Shi's
 grab. Moving very fast she took the Sheng Huo Ling from Zhang Wuji's
 hand and threw it far away. 'Swish!' it fell among the sharp steel
-spikes Jin Hua Popo spread on the ground earlier.\
-\
+spikes Jin Hua Popo spread on the ground earlier.
+
 To the Persian Three Emissaries, this Sheng Huo Ling was as important as
 their lives. Liuyun Shi and Huiyue Shi disregarded Zhang Wuji and Zhao
 Min as their enemy; they did not even give any thought to Miaofeng Shi's
 safety, they jumped toward the steel spike formation to look for the
-Sheng Huo Ling.\
-\
+Sheng Huo Ling.
+
 Rushing forward for only a 'zhang' or so, they reached the steel spikes.
-"Ah!" Huiyue Shi screamed, as she treaded on one of the steel spikes.\
-\
+"Ah!" Huiyue Shi screamed, as she treaded on one of the steel spikes.
+
 It was a moonless night with wind blowing hard, the grass was knee-deep;
 they could not see the steel spikes and the Sheng Huo Ling. They were
 forced to get down and pull the spikes while groping around for the
 Sheng Huo Ling. At that moment Miaofeng Shi called out in alarm, as if
 he had just awaken from a dream, and leaped forward to follow his
-comrades.\
-\
+comrades.
+
 In order to save Zhang Wuji, Zhao Min had used these three stances much
 like a rabbit fighting a falcon; certainly without even give it a
 thought in advance. Now that the excitement subsided, the more she
 thought about it, the more she was afraid. "Wah!" she broke into a cry
-and threw herself in Zhang Wuji's bosom.\
-\
+and threw herself in Zhang Wuji's bosom.
+
 Zhang Wuji embraced her with a heart full of gratitude, but he realized
 that as soon as the Persian Three Emissaries found the Sheng Huo Ling,
 they would turn around against them. "Let's go quickly!" he hastily
 said. He turned to return the Tulong Saber to Xie Xun. Carrying the
 severely wounded Yin Li, he said, "Xie Da Xia, let us temporarily escape
-from them."\
-\
+from them."
+
 "Right," Xie Xun replied. Stooping down he unsealed Jin Hua Popo's
-acupoints.\
-\
+acupoints.
+
 Zhang Wuji thought that after narrowly escaped death, Jin Hua Popo would
 certainly forget her enmity towards Xie Xun. Four people went down the
 hill for several 'zhang's when Zhang Wuji thought that although Yin Li
 was his own cousin, yet a man and a woman should not be to close to each
-other; thereupon he handed her over so Jin Hua Popo could carry her.\
-\
+other; thereupon he handed her over so Jin Hua Popo could carry her.
+
 Zhao Min was leading the way, followed by Jin Hua Popo and Xie Xun.
 Zhang Wuji was the last, to protect them against the enemy. Looking back
 he saw the Persian Three Emissaries were still stooping down, searching
 among the long thick patch of grass. Zhang Wuji recalled the thrill of
 his defeat just now, and his heart shivered in fear; plus he was not
-sure if Yin Li would survive this severe injury.\
-\
+sure if Yin Li would survive this severe injury.
+
 While he was still deep in thought, suddenly he heard Xie Xun's angry
 shout and saw him sending his fist toward Jin Hua Popo's back. Jin Hua
 Popo reached back to parry, while simultaneously throwing Yin Li to the
-ground. Zhang Wuji was shocked and flew forward.\
-\
-"Mrs. Han," Xie Xun barked, "Why do you want to kill Miss Yin?"\
-\
+ground. Zhang Wuji was shocked and flew forward.
+
+"Mrs. Han," Xie Xun barked, "Why do you want to kill Miss Yin?"
+
 Jin Hua Popo laughed coldly, "Whether you killed me or not, that's your
 business. Whether I want to kill her or not, that's my business. Why do
-you care anyway?"\
-\
+you care anyway?"
+
 "Since I am here," Zhang Wuji said, "I won't let you harm anybody on
-your whim."\
-\
+your whim."
+
 "Haven't you meddled enough in other people business for today, Sire?"
-Jin Hua Popo asked.\
-\
+Jin Hua Popo asked.
+
 "That's not necessarily your business," Zhang Wuji said, "The Persian
 Three Emissaries will pursue us here in an instant and you still will
-not go?"\
-\
+not go?"
+
 Jin Hua Popo snorted and ran westward. Suddenly she shot three golden
 flowers backhandedly toward the back of Yin Li's head. Zhang Wuji
 stretched out his hand and flicked his fingers. 'Swish, swish, swish!'
 the sound of golden flowers split the air, flying back toward Jin Hua
-Popo, stronger than arrows shot from a crossbow.\
-\
+Popo, stronger than arrows shot from a crossbow.
+
 Jin Hua Popo had already seen his face clearly when Zhang Wuji held Yin
 Li for the first time and wiped out the beards pasted on his lips. Since
 realizing this young man's internal energy was surprisingly very
@@ -16040,106 +16040,106 @@ profound, she did not dare to reach out and catch; hastily she ducked
 down to dodge. The three golden flowers swept past her robe and tore
 away three big strips of clothes on her back. She was so frightened that
 her heart was jumping madly; she scurried away without even looking
-back.\
-\
+back.
+
 Zhang Wuji reached out to carry Yin Li. Suddenly he heard Zhao Min moan
 in pain while bending her waist and pressed both hands on her lower
 abdomen. Hastily he went forward and asked, "What is it?" But then he
 saw that her hands were full of blood, which was still seeping out from
 her fingers. Turned out the 'tian di tong shou' had stabbed her abdomen
-after all.\
-\
-Zhang Wuji was very shocked and busily asked, "Is the injury deep?"\
-\
+after all.
+
+Zhang Wuji was very shocked and busily asked, "Is the injury deep?"
+
 Right at that moment they heard Miaofeng Shi cheered, "I found it! I
-found it!"\
-\
+found it!"
+
 "Don't mind me!" Zhao Min urged, "Go! Just go!" Zhang Wuji reached out
-to carry her and rushed downhill.\
-\
-"To the ship! We escape to the sea!" Zhao Min said.\
-\
+to carry her and rushed downhill.
+
+"To the ship! We escape to the sea!" Zhao Min said.
+
 "Right!" Zhang Wuji responded. With one hand carried Yin Li and the
-other hand Zhao Min, he sped downhill.\
-\
+other hand Zhao Min, he sped downhill.
+
 Xie Xun followed close behind; he was secretly astonished, "This
 youngster is amazing; carrying two adults yet still able to run this
-fast."\
-\
+fast."
+
 Zhang Wuji was so anxious that he felt his heart go numb. Even if only
 one of these two girls in his hands would die of her wounds, he would
 hate himself for the rest of his life. Luckily their bodies were still
-warm and did not gradually turn cold.\
-\
+warm and did not gradually turn cold.
+
 As the Persian Three Emissaries found the Sheng Huo Ling, they rushed to
 pursue, but these three's 'qing gong' was definitely inferior to Zhang
 Wuji. It was even greatly inferior compared to Xie Xun's. As Zhang Wuji
 was nearing the ship, he loudly called out, "Shao Min Junzhu's order:
-Raise the sail and weigh the anchor, prepare to sail immediately!"\
-\
+Raise the sail and weigh the anchor, prepare to sail immediately!"
+
 So when he and Xie Xun stepped their feet on the deck, the ship was
 ready to sail. But the captain must hear from Zhao Min personally; he
-went forward to ask for instruction.\
-\
+went forward to ask for instruction.
+
 Zhao Min had lost a lot of blood. With a weak voice she said, "Hear ...
-hear Zhang Gongzi's order ... do it ..."\
-\
+hear Zhang Gongzi's order ... do it ..."
+
 The captain immediately complied, the ship set sail that when the
 Persian Three Emissaries reached the shore, the ship had already sailed
-dozens of 'zhang's away from the island.\
-\
+dozens of 'zhang's away from the island.
+
 Zhang Wuji laid down both Zhao Min and Yin Li side by side in the cabin.
 Xiao Zhao helped him take off their clothes to reveal the wounds. Zhang
 Wuji assessed these two women's conditions; he saw the sword wound on
-Zhao Min's abdomen was approximately half a 'cun' \[1 cun is about 1
-inch\] deep. Although she was bleeding profusely, her life was not in
+Zhao Min's abdomen was approximately half a 'cun' [1 cun is about 1
+inch] deep. Although she was bleeding profusely, her life was not in
 danger. All of the three golden flowers on Yin Li's chest had hit her
 vital points; apparently Jin Hua Popo did not attack her half-heartedly.
 Whether her life could be saved remained very difficult to say. He
-applied some medicine and wrapped their injuries.\
-\
+applied some medicine and wrapped their injuries.
+
 Yin Li remained unconscious, while tears streaming down Zhao Min's face.
 Zhang Wuji asked how she felt; she merely clenched her teeth without
-giving an answer.\
-\
+giving an answer.
+
 "Zeng Shao Xia," Xie Xun said, "Old Xie has left the matters of the
 world; this time unexpectedly returning to the Central Earth, and still
 can make an acquaintance with a friend with such a deep 'yi qi', I am
-happy beyond believe."\
-\
+happy beyond believe."
+
 Zhang Wuji led him to sit on a chair in the middle of the cabin. He
 knelt and bowed down, crying, "Yifu, child Wuji is unfilial; has not
 been able to meet you sooner, causing Yifu to suffer extreme
-hardships."\
-\
-"You ..." Xie Xun was shocked, "What did you say?"\
-\
-"I am your child Wuji," Zhang Wuji said.\
-\
-But how could Xie Xun believe? "You ... what did you say?" he asked.\
-\
+hardships."
+
+"You ..." Xie Xun was shocked, "What did you say?"
+
+"I am your child Wuji," Zhang Wuji said.
+
+But how could Xie Xun believe? "You ... what did you say?" he asked.
+
 "The fist technique starts with a focused attention, intention precedes
 strength, only then victory will be achieved ..." Zhang Wuji gushed
 non-stop, reciting the theories Xie Xun passed on to him on the Bing Huo
-Island just before they bade each other good-bye.\
-\
+Island just before they bade each other good-bye.
+
 After he recited about twenty sentences or so, Xie Xun was surprised and
 happy; he grabbed Zhang Wuji's arms and said, "You ... you are really my
-child Wuji?"\
-\
+child Wuji?"
+
 Zhang Wuji stood up and embraced Xie Xun tightly, while trying to
 control his emotions. Thereupon he narrated in brief important points of
 what had happened since they parted omitting the fact that he was the
 Cult Leader of the Ming Cult. He did not want his Yifu to observe the
-Cult protocol and did obeisance to him instead.\
-\
+Cult protocol and did obeisance to him instead.
+
 Xie Xun felt as if he was in a dream; but this time he could not help
-but believe. "Lao Tian Ye \[Heaven, God\] has eyes, Lao Tian Ye has
-eyes!" he repeatedly said.\
-\
+but believe. "Lao Tian Ye [Heaven, God] has eyes, Lao Tian Ye has
+eyes!" he repeatedly said.
+
 Suddenly they heard the sailor on watch shouted from the stern, "The
-enemy ship pursues!"\
-\
+enemy ship pursues!"
+
 Zhang Wuji rushed toward the deck and saw on a distant a large ship
 riding on the wind with five sails open, coming fast toward them. In the
 dark night he could not see the ship's hull, but the five large white
@@ -16150,19 +16150,19 @@ Emissaries, then he could fight them inside the cabin. Because of the
 space limitation, they might not be easily collaborating with one
 another. Thereupon he moved Zhao Min and Yin Li to the side, took the
 two big anchors on the deck, and placed them on the middle of the cabin
-as a barrier, forcing the Persian Three Emissaries to fight one on one.\
-\
+as a barrier, forcing the Persian Three Emissaries to fight one on one.
+
 As he finished the preparation, suddenly a loud explosion was heard;
 their ship violently leaned sideways, followed by the seawater rise up
-to the sky and splash into the cabin.\
-\
+to the sky and splash into the cabin.
+
 "The enemy ship fires their cannon! The enemy ship fires their cannon!"
 the sailor on the stern loudly called out. Luckily the cannon missed its
-target and landed on the water.\
-\
+target and landed on the water.
+
 Zhao Min beckoned Zhang Wuji and in a low voice said, "We also have
-cannon!"\
-\
+cannon!"
+
 Zhang Wuji remembered and immediately rushed to the main deck, ordering
 the sailors to take away the covers of the cannon and load it with
 gunpowder and iron cannonball. They lighted the fuse and 'Bang!' the
@@ -16171,41 +16171,41 @@ their martial art skills were not weak, however they knew nothing about
 artillery or naval battle; the cannonball landed in between two enemy
 ships. Column of water rose up several 'zhang's to the sky, but the
 enemy's ships were not even swayed. Fortunately, as the enemy saw that
-they also have guns, they did not dare to get too close.\
+they also have guns, they did not dare to get too close.
 Not too long afterwards, the enemy ship fired another round. This time
 it hit the bow and immediately their ship caught fire. Zhang Wuji busily
 directed the sailors to draw water to fight the fire. Suddenly he saw
 the fire had reached one of the upper deck's cabins. With both hands
 carried two buckets of water, he kicked the cabin door open and splashed
 the water to extinguish the fire. Amidst the smoke he saw a woman lying
-on the bed. It was Zhou Zhiruo. She was completely soaked.\
-\
+on the bed. It was Zhou Zhiruo. She was completely soaked.
+
 Zhang Wuji dropped the buckets and rushed in. "Miss Zhou," he hastily
-asked, "Are you all right?"\
-\
+asked, "Are you all right?"
+
 Zhou Zhiruo's head and face was wet; she looked really miserable. She
 was extremely stunned to suddenly see Zhang Wuji appear. She tried to
 move her hands, 'clink, clank, clink'. It turned out her hands and feet
 were shackled in iron chain by Jin Hua Popo. Zhang Wuji rushed to the
-lower deck cabin to fetch the Yitian Sword and cut away the shackles.\
-\
-"Zhang Jiaozhu," Zhou Zhiruo said, "You ... how come you are here?"\
-\
+lower deck cabin to fetch the Yitian Sword and cut away the shackles.
+
+"Zhang Jiaozhu," Zhou Zhiruo said, "You ... how come you are here?"
+
 Before Zhang Wuji could reply, the hull suddenly shook violently. Zhou
 Zhiruo's legs were still weak and she fell into Zhang Wuji's bosom.
 Zhang Wuji busily reached out to help her up. By the flame light from
 outside the window Zhang Wuji saw on her pale face two streaks of blush;
 embellished by little drops of water, she looked so beautiful and
-elegant, just like narcissus in the morning dew.\
-\
+elegant, just like narcissus in the morning dew.
+
 Zhang Wuji calmed himself down and said, "Let us go to the lower deck
-cabin."\
-\
+cabin."
+
 Two people barely went out the door when they felt the ship was
 spinning. Turned out the enemy's cannon just now had not only hit the
 rudder and smashed it, but killed the helmsman and threw him down the
-sea as well.\
-\
+sea as well.
+
 The captain was anxious, he personally loaded the cannon, with the hope
 of sinking the enemy ship. He kept pouring gunpowder down the gun barrel
 and packed it solid with an iron rod. Turning around the cannon's mouth,
@@ -16215,19 +16215,19 @@ The cannon exploded and killed the captain and the sailors standing
 nearby; their flesh and blood scattered everywhere. It was because the
 captain wanted to utilize the full power of the cannon that he put
 several times the amount of gunpowder than necessary, so that the cannon
-exploded instead.\
-\
+exploded instead.
+
 Zhang Wuji and Zhou Zhiruo had just stepped onto the deck when they saw
 the ship was on fire; they withdrew immediately. Looking around Zhang
 Wuji saw a small boat tied on the port side of the ship. "Miss Zhou," he
-called out, "Jump to that boat ..."\
-\
+called out, "Jump to that boat ..."
+
 By this time Xiao Zhao, carrying Yin Li, and Xie Xun, carrying Zhao Min,
 emerged from the lower deck cabin. Turned out the explosion had made a
 crack on the hull of the ship and the seawater welled up quickly. Zhang
 Wuji led Xie Xun and Xiao Zhao to the boat. He cut the rope with his
-sword and 'splash!' the boat fell onto the sea below.\
-\
+sword and 'splash!' the boat fell onto the sea below.
+
 Zhang Wuji jumped out and lightly landed on the boat. He took the pair
 of oars and started rowing with all his might. By this time, the fire
 was blazing wild, painting the surface of the sea to a bright red. Zhang
@@ -16235,31 +16235,31 @@ Wuji thought he must take the boat as far away as possible from this
 circle of light. If the Persian Three Emissaries did not see the small
 boat, they would think that everybody perished in the sea and will no
 longer pursue them. Xie Xun followed his example by taking out a plank
-and rowing furiously.\
-\
+and rowing furiously.
+
 The small boat sailed swiftly on the waves; in a short moment they were
 outside the circle of light. They heard a series of explosions as the
 gunpowder on the ship was detonated. The Persian ship did not dare to
-come close; they stopped to observe afar from quite a distance.\
-\
+come close; they stopped to observe afar from quite a distance.
+
 Some of Zhao Min's warriors possessed good water skills; they dove into
 the sea and swam toward the enemy ship, crying for help. But the
-Persians shot them with arrows and they died in the sea.\
-\
+Persians shot them with arrows and they died in the sea.
+
 Zhang Wuji and Xie Xun did not dare to slack off. If the Three
 Emissaries overtook them on land, they would still be able to fight to
 the death. But now they were in the middle of the boundless ocean; if
 the enemy ship fired their canon, even if they missed the small boat by
 several 'zhang's, the wave would surge and the small boat would capsize.
 Fortunately, these two's internal energy was very profound that they
-were not exhausted although they rowed for half a night.\
-\
+were not exhausted although they rowed for half a night.
+
 Black clouds filled the sky towards dawn and all around them was gray
 drizzle of thick fog. Zhang Wuji happily said, "If this thick fog stays
 for half a day, then the enemy will not be able to find us in any way."
 But towards the afternoon, suddenly a strong wind came followed by a
-heavy rain.\
-\
+heavy rain.
+
 The small boat was blown southward by the wind. It was the depth of
 wintertime. Everybody's clothes were soaked. Zhang Wuji and Xie Xun had
 profound internal energy, so they were all right. But blown by the north
@@ -16267,64 +16267,64 @@ wind, Zhou Zhiruo and Xiao Zhao could not restrain their teeth from
 chattering. Unfortunately, there was nothing on that small boat; nobody
 could come up with any ideas. Zhang Wuji and Xie Xun had stopped rowing
 for a while; right now four people removed their eight shoes and used
-them to scoop the rainwater accumulated on the boat to the sea.\
-\
+them to scoop the rainwater accumulated on the boat to the sea.
+
 Xie Xun was very happy to finally meet Zhang Wuji; although the present
 situation of their plight was dangerous, he did not seem to care. He
 cursed the sky and shouted at the sea, and was busy talking and laughing
 in the rain. Xiao Zhao was also carefree; she happily accompanied Xie
 Xun chitchatting. Only Zhou Zhiruo was silent; occasionally her eyes
 would meet Zhang Wuji's, and she would immediately turn her head around
-to avoid his gaze.\
-\
+to avoid his gaze.
+
 "Wuji," Xie Xun said, "In the past, while your parents and I were riding
 on a boat together, we met a violent storm along the way; it was worse
 than today. Afterwards we were marooned on an iceberg and we had seals
 as our food. But that time the south wind was blowing, so we were
 floating to the North Pole's world of ice and snow. Today the north wind
-is blowing. Could it be that 'Lao Tian Ye' \[God, or Heaven\] think Xie
+is blowing. Could it be that 'Lao Tian Ye' [God, or Heaven] think Xie
 Xun is not pleasing to the eyes, that He wants to send me to the South
 Pole's palace of old immortals for another twenty years? Ha ha ha ha
-...!"\
-\
+...!"
+
 After laughing for a moment he said, "That time your parents were one
 man and one woman, a talented young man and a beautiful young woman; it
 was a match made in Heaven. Now you have four beautiful girls with you;
-what can we do? Ha ha ha ha ...!"\
-\
+what can we do? Ha ha ha ha ...!"
+
 Zhou Zhiruo blushed and lowered her head; while Xiao Zhao remained calm
-and said, "Xie Laoyezi \[old master Xie\], I am Gongziye's \[master\]
-servant; of course I don't count."\
-\
+and said, "Xie Laoyezi [old master Xie], I am Gongziye's [master]
+servant; of course I don't count."
+
 Although Zhao Min's injury was not light, she was conscious the whole
 time; "Xie Laoyezi," she suddenly said, "If you keep talking nonsense,
-as soon as I am well, we'll see if I don't slap your ears really good."\
-\
+as soon as I am well, we'll see if I don't slap your ears really good."
+
 Xie Xun stuck out his tongue and said with a smile, "This girl is
 actually very mean." Suddenly the smile disappeared from his face; he
 hesitated a moment before saying, "Hmm, last night you launched three
 suicidal moves. The first one was Kunlun Pai's 'yu sui kun gang', the
 second one was Kongtong Pai's 'ren gui tong tu', and the third one ...
-what was it? The old man is uncouth and unlearned, could not hear it."\
+what was it? The old man is uncouth and unlearned, could not hear it."
 Zhao Min was secretly shocked. "No wonder Jin Mao Shi Wang's name shook
 the world in the past; his conducts in Jianghu were earth-shattering,"
 she thought, "His eyes are blind, yet he was able to guess correctly the
-two stances I was using. He truly lives up to his reputation."\
-\
+two stances I was using. He truly lives up to his reputation."
+
 "The third move was Wudang Pai's 'tian di tong shou'," she said,
 "Apparently it was developed only recently, no wonder Laoyezi does not
-know." She said that with a really respectful expression.\
-\
+know." She said that with a really respectful expression.
+
 Xie Xun sighed, "You did your utmost to save Wuji; that was really
 good," he said, "But why did you risk your own life? Why risked your
-life?"\
-\
+life?"
+
 Zhao Min started to say, "He ... he ..." but then she stopped, as if she
 was mulling over whether she should continue or not. Finally she could
 not refrain from sobbing; she said, "He ... Who told him to show such
 affection? ... Hugging ... Hugging Miss Yin. I don't want to live!"
-Finished speaking, her tears were already rolling down like rain.\
-\
+Finished speaking, her tears were already rolling down like rain.
+
 Hearing her publicly revealing her deepest feelings unexpectedly, four
 people were startled; they did not remember Zhao Min was a Mongolian
 girl who loves when she wants to love, and who hates when she wants to
@@ -16333,16 +16333,16 @@ women who were strongly influenced by Confucianism's custom and
 regulations. Besides, they were all on a small boat in the middle of the
 ocean, the heavy rain drenched their heads, their small boat could
 capsize anytime and they would all perish. At the time when they hovered
-between life and death, it was even more unnecessary to be scrupulous.\
-\
+between life and death, it was even more unnecessary to be scrupulous.
+
 Listening to Zhao Min, Zhang Wuji could not help but feel touched. "Miss
 Zhao is originally my archenemy," he thought, "This time my primary
 intention was to see Yifu when we were going out to the sea together.
 Who would have thought that she would have these deep feelings toward
 me?" Unable to restrain his emotions, he reached out to hold her hand,
 put his lips next to her ear and whispered softly, "No matter what, next
-time you can't do it again."\
-\
+time you can't do it again."
+
 As Zhao Min blurted out her feelings, she had almost immediately had
 already regretted it; thinking that if a girl from an honorable family
 did not stop this kind of talk from coming out, how could he not look
@@ -16350,8 +16350,8 @@ down on her? Suddenly hearing him admonish her lovingly, she was
 surprised and happy, bashful and loving at the same time. She felt an
 unspeakable sweetness in her heart and felt that last night's risking
 her life three times, and the suffering of drifting on the ocean today,
-everything, were not in vain.\
-\
+everything, were not in vain.
+
 The heavy rain started to subside and gradually stopped, but the fog was
 coming back and actually getting thicker and thicker. Suddenly a
 swishing noise was heard as a large fish, more than 30 catties, leaped
@@ -16364,16 +16364,16 @@ Xun ate eagerly; he had lived on a desolated island for more than twenty
 years, and had survived on all kinds of food, how could he care about
 eating raw fish? Besides, the fish was fresh; after chewing for some
 times and being used to the fresh fish smell, the meat brought out its
-raw sweet flavor.\
-\
+raw sweet flavor.
+
 The waves gradually subsided. After eating, they all closed their eyes
 to get some rest. They had been fighting violently for the whole day and
 whole night the previous day, they were not only physically, but
 emotionally exhausted as well. Although Zhou Zhiruo and Xiao Zhao were
 not engaged in battle physically, the excitement and frights they
 experienced were not small. The ocean gently rocked the small boat like
-a cradle; the six people on the boat fell asleep one after another.\
-\
+a cradle; the six people on the boat fell asleep one after another.
+
 They were sound asleep for almost six hours. As an old man, Xie Xun was
 the first one to wake up. He heard the sound of five young people
 breathing blended with the sound of the wave and the wind. Since Zhao
@@ -16382,45 +16382,45 @@ Zhiruo's breathing was light and long. Zhang Wuji's inhales and exhales
 sounded like they were broken yet continuous, without any distinct
 separation. Xie Xun was secretly astonished, "This child internal energy
 is very profound," he thought, "I won't be able to achieve this level in
-all my life."\
-\
+all my life."
+
 Xiao Zhao's breathing was sometimes fast, sometimes slow, a sign of a
 very special school's internal energy cultivation method. Xie Xun
 frowned as he remembered something, "This is strange," he mused, "Could
-it be that this child is ..."\
-\
+it be that this child is ..."
+
 Suddenly his thought was interrupted by Yin Li's loud shout, "Zhang
-Wuji, you little kid, why don't you come with me to Ling She Island?"\
-\
+Wuji, you little kid, why don't you come with me to Ling She Island?"
+
 Zhang Wuji, Zhao Min, Zhou Zhiruo and Xiao Zhao were awakened by her
 shout. She said again, "I live alone on the Island, and quite lonely ...
 why are you not willing to come and accompany me? I miss you so much,
-you ... you are in the afterworld, do you know that?"\
-\
+you ... you are in the afterworld, do you know that?"
+
 Zhang Wuji put his hand on her forehead and felt it was burning hot; he
 knew her severe wound had caused her a fever, making her sprouting
 nonsense. Although his medical skill was exquisite, there was nothing on
 the small boat, not even a blade of grass, so he was helpless. He tore
 away a piece of his clothes and soaked it in the water, then pressed it
-on her forehead.\
-\
+on her forehead.
+
 Yin Li continued to ramble; suddenly she shouted, "Father, you ... don't
 kill mother, don't kill mother! I was the one who killed 'Er Niang'
-\[second madame or second mother\], you'd better kill me; it had nothing
+[second madame or second mother], you'd better kill me; it had nothing
 to do with mother ... Mother is dead, mother is dead! I killed my
-mother! Boo hoo hoo ..." She cried miserably.\
-\
+mother! Boo hoo hoo ..." She cried miserably.
+
 "Zhu'Er, Zhu'Er, wake up," Zhang Wuji said in a gentle voice, "Your
-father is not here, you don't have to be afraid."\
-\
+father is not here, you don't have to be afraid."
+
 "Father is not good, I am not afraid of him!" Yin Li indignantly said,
-"Why did he marry 'Er Niang', 'San Niang' \[third madame or third
-mother\]? Is not one wife enough for one man? Father, you have two
+"Why did he marry 'Er Niang', 'San Niang' [third madame or third
+mother]? Is not one wife enough for one man? Father, you have two
 hearts and three minds; delight in the new, discard the old. You've
 married someone yet marry another, hurting my mother really bad, hurting
 me really bad! You are not my Father, you are a heartless man, a greatly
-wicked man!"\
-\
+wicked man!"
+
 Zhang Wuji was shocked and alarmed; his face turned blue and his lips
 white. Turned out he had just had a good dream; he dreamt that he
 married Zhao Min, and also married Zhou Zhiruo. Yin Li's face had
@@ -16429,15 +16429,15 @@ idea he did not dare to think during the day had manifested itself in a
 dream when he was sleeping. He felt that these four girls were all good,
 and he could not bear to part with any of them. Hence when he comforted
 Yin Li, his mind was still vaguely remembering the sweetness that the
-dream brings.\
-\
+dream brings.
+
 This time listening to Yin Li scolding her father, he recalled how in
 the past she had told him that because she could not accept her mother
 being cheated, she killed her father's beloved concubine, so that his
 uncle, Yin Yewang wanted to kill his own daughter. This tragic incident
 had affected Yin Yewang greatly that to comfort his own feeling he took
-several more wives and concubines.\
-\
+several more wives and concubines.
+
 Zhang Wuji looked at Zhao Min, and could not help but look at Zhou
 Zhiruo as well, remembering his dream, he was deeply ashamed. He heard
 Yin Li mumbling in her sleep, but suddenly she implored urgently, "Wuji,
@@ -16446,8 +16446,8 @@ really bad, but I don't hate you the least bit. I will take care of you
 as long as I live, to be close to you, to regard you as my master. Don't
 hate me because my face is ugly; if you want it, I'd rather lose my
 martial art, I'll discard the poison from the thousand spiders, so my
-face will come back to when you first saw me ..."\
-\
+face will come back to when you first saw me ..."
+
 She spoke these last few sentences with a very tender and gentle voice,
 totally different from the strong-willed and short-tempered, eccentric
 cousin Zhang Wuji had always known; that gentle and tender feeling also
@@ -16456,15 +16456,15 @@ looking for you, I went to the end of the earth without hearing anything
 about you, and then in the western region I heard you have died, falling
 off a cliff; made me want to stop living. In the western region I met a
 guy named Zeng Ahniu; his martial art skill was very high, he was also
-very good to me; he wanted to take me as his wife."\
-\
+very good to me; he wanted to take me as his wife."
+
 Zhao Min, Zhou Zhiruo and Xiao Zhao knew that Zhang Wuji often used the
 name Zeng Ahniu, they all turned their eyes to him. Zhang Wuji blushed
 profusely; he felt very awkward to be under these three girls attentive
 gaze. He really wished he could just jump into the sea and did not come
-back up until Yin Li regained her consciousness.\
-\
-He heard Yin Li mumbled and said, "That Ahniu Gege \[big brother Ahniu\]
+back up until Yin Li regained her consciousness.
+
+He heard Yin Li mumbled and said, "That Ahniu Gege [big brother Ahniu]
 said to me, 'Miss, with all my heart I sincerely desire to marry you. I
 only hope you will not regard me unworthy.' He said, 'From now on, I
 will cherish you with all my might, I will look after you. No matter how
@@ -16477,12 +16477,12 @@ Miejue Shitai. But my heart belongs to you, this heartless and
 short-lived little rascal, hence I cannot come with him. You have died
 young then I will be your widow for the rest of my life. Wuji, tell me,
 isn't Ah Li good to you? You ignored me in the past, don't you regret it
-now?"\
-\
+now?"
+
 At first Zhang Wuji was very embarrassed when she repeated what he said
 to her, but the more he listened to her, the more his heart was touched.
-He could not control his tears from flowing down his cheeks.\
-\
+He could not control his tears from flowing down his cheeks.
+
 By now the thick fog had already been dissipated, the crescent moon
 illuminated the boat. Yin Li was leaning on her side, so that her
 graceful figure was clearly seen. She softly said, "Wuji, in the
@@ -16491,45 +16491,45 @@ to the northern sea's Bing Huo Island to find your Yifu, and then I am
 going to the Wudang Mountain to offer sacrifice on your parents' graves.
 Afterwards I am going to the snowy peak in the western region where you
 died and I'll jump down to accompany you. But I must wait for Popo's a
-hundred years \[meaning: a lifetime, till she died\]; I cannot accompany
+hundred years [meaning: a lifetime, till she died]; I cannot accompany
 you yet, leaving her to suffer in this world alone. Popo treated me very
 well, if she did not save me, I would have been killed by Father early
 on. For your Yifu's sake I have betrayed Popo; she must hate me very
-much, but I still have to be good to her. Wuji, don't you think so?"\
-\
+much, but I still have to be good to her. Wuji, don't you think so?"
+
 She talked as if she was discussing something face to face with Zhang
 Wuji. In her heart, Zhang Wuji had become a ghost from another world.
 The way she spoke soft and gentle words to the dead, plus the moonlight
 shining on the ocean, a quiet night, lone boat were all making those who
-were listening feel a sudden chill creep in their hearts.\
-\
+were listening feel a sudden chill creep in their hearts.
+
 Yin Li kept rambling to the east and to the west, which did not make any
 sense whatsoever; sometimes she called out in alarm, sometimes shouted
 in anger, each word was a manifestation of inexhaustible anxiety in her
 heart. She called out and shouted randomly like that for a while,
-finally her voice softened, and slowly she fell into a deep sleep.\
-\
+finally her voice softened, and slowly she fell into a deep sleep.
+
 The other five people on the boat were silent as they were busy with
 their own thoughts. The only audible noise was the sound of the waves
 gently striking the hull of their little boat. Under the gentle wind and
 the bright moon, they felt that the life's miseries from tens of
-thousands days ago still exist today, and will be forever.\
-\
+thousands days ago still exist today, and will be forever.
+
 In between thoughts, they suddenly heard a very faint gentle singing
 float above the water, 'In the end, this body will be difficult to
 escape from that day. Out of a hundred years span of life, those who
 reach seventy are already sparse. Years of misery pass like torrential
-flood of the river.' \[Translator's note: I am not a poet, and this
-passage is very difficult to translate. I welcome any correction.\] It
-was Yin Li who softly sang the song in her sleep.\
-\
+flood of the river.' [Translator's note: I am not a poet, and this
+passage is very difficult to translate. I welcome any correction.] It
+was Yin Li who softly sang the song in her sleep.
+
 Zhang Wuji's heart turned cold; he remembered inside the secret passage
 of the Brightness Peak, when their exit was completely stopped by Cheng
 Kun that they were unable to get out, Xiao Zhao had also sung this tune.
 Almost without thinking he turned to look at Xiao Zhao. Under the
 moonlight he saw that Xiao Zhao was looking at him with a blank
-expression her face.\
-\
+expression her face.
+
 [End of Chapter 29.]
 
 # Chapter 30 -- East and West Will Always Be Divided like Enemies
@@ -16542,9 +16542,9 @@ expression her face.\
 
 > Recalling that year on the Brightness Peak, by the Bluish Green Cold
 > Pool, with lavender gown like a flower and sword brighter than snow,
-> Taj-kis had upset countless heroes and warriors\'
-> hearts.\
-> \
+> Taj-kis had upset countless heroes and warriors'
+> hearts.
+> 
 
  
 
@@ -16558,8 +16558,8 @@ time the song was unspeakably weird, the melody was totally different
 from songs of the Central Earth. If one listened closely, they would be
 able to discern the words, which were also similar to the song Xiao Zhao
 used to sing, 'Coming like the running water, departing like the wind;
-wonder where it came from, and where it will end!'\
-\
+wonder where it came from, and where it will end!'
+
 She sang these two songs over and over again, while her voice getting
 softer and softer, until finally her voice was drowned by the noise of
 the wind and the waves. Everybody pondered how life and death was not
@@ -16568,40 +16568,40 @@ of the river, without knowing where it came from. It does not matter if
 you are a hero or a warrior, death is inevitable in the end, coming out
 of this world also lightly, just like the blowing wind, without knowing
 where it would go. Zhang Wuji felt that Zhao Min's delicate fingers in
-his hand were as cold as ice, and they slightly trembled.\
-\
+his hand were as cold as ice, and they slightly trembled.
+
 Xie Xun suddenly said, "This is a Persian song; Mrs. Han must have
 taught her. One evening twenty years ago, I heard this song at the
 Brightness Peak. Ay, I can't believe Mrs. Han could be that heartless to
-hurt this child with a cruel hand."\
-\
+hurt this child with a cruel hand."
+
 "Laoye Zi," Zhao Min asked, "How did Mrs. Han know about a Persian
-song? Was it a Ming Cult\'s song?"\
-\
-Xie Xun replied, "Ming Cult\'s origin is from Persia, so this Persian
+song? Was it a Ming Cult's song?"
+
+Xie Xun replied, "Ming Cult's origin is from Persia, so this Persian
 song is somewhat related to the Ming Cult; but it is not a Ming Cult
 song. This song was written by the most famous Persian poet Omar Khayyam
 more than two hundred years ago; it was said that every Persian could
 sing this song. When I heard Mrs. Han sing this song, I was touched;
 thereupon I asked her the story behind this song, and she told me
-everything:\
-\
+everything:
+
 There was a great Persian philosopher by the name of Imam Mowaffaq
 Nishapuri; among his disciples, there were three outstanding students:
 Omar Khayyam, who was a master in literature studies, Nizam-ul-Mulk, who
 was an expert in political studies, and Hassan-i-Sabah, who excelled in
 martial arts. These three were good friends and bound themselves in an
 oath, to face fortune and adversity together, and not to forget each
-other in riches and honor.\
-\
+other in riches and honor.
+
 Later on because of his accomplishment, Nizam-al-Mulk became Vizier to
 the Seljukid Empire. His two old friends came to seek shelter. Nizam
 entreated the Shah, and Hassan was granted an official position. Omar
 was not willing to be a government official; he only asked for annual
 provision so that he could research and study astronomy, almanac and
 mathematics, also to drink wine and write poems in peace. Nizam
-generously granted each of his friends' requests.\
-\
+generously granted each of his friends' requests.
+
 Unexpectedly, Hassan was ambitious; he was unwilling to be someone
 else's subordinate for long and thus staged a rebellion. His attempt was
 foiled and he fled to a mountain. Later on he became the chief of a sect
@@ -16610,186 +16610,186 @@ their service, and was called the Hashhashin Sect. During the Crusades,
 whenever someone in the western region mentioned the name of The Old Man
 of the Mountain, Hassan, no hearts would be exempt from shaking in fear.
 Many of the western region's rulers lost their lives under the
-innumerable assassins under The Old Man of the Mountain.\
-\
-Mrs. Han told me that in the far west \[i.e. Europe\] there is one great
+innumerable assassins under The Old Man of the Mountain.
+
+Mrs. Han told me that in the far west [i.e. Europe] there is one great
 nation called England. This country's King Edward has offended The Old
 Man of the Mountain, so he dispatched a band of assassins. The King was
 wounded by a poisoned blade. Luckily, the Queen sacrificed herself to
 save her husband by sucking the poison from his wound. As a result, the
-King survived.\
-\
+King survived.
+
 In spite of the kindness he received in the former days, Hassan
 dispatched his men to assassinate the Vizier, Nizam-al-Mulk. At the
 point of his death, the Vizier uttered Omar Khayyam's verse; these two
 lines 'Coming like the running water, departing like the wind; wonder
-where it came from, and where it will end.'\
-\
+where it came from, and where it will end.'
+
 Mrs. Han also told me that afterwards, the martial art from The Old Man
 of the Mountain's Sect was practiced by the people of the Persian Ming
 Cult. The Persian Three Emissaries' martial art was odd in a strange
 way; I suppose it stemmed from The Old Man of the Mountain's martial
-art."\
-\
+art."
+
 "Laoye Zi," Zhao Min said, "This Mrs. Han's character is similar to that
 of The Old Man of the Mountain; you treated her with utmost kindness,
-yet she plotted to harm you."\
-\
+yet she plotted to harm you."
+
 Xie Xun sighed, "It is common for people to repay kindness with evil;
-what's so strange about that?" he said.\
-\
+what's so strange about that?" he said.
+
 Zhao Min lowered her head and was silent for half a day before saying,
 "Mrs. Han was the chief of the Ming Cult's Four Kings, but her martial
 art skill is not necessarily superior to Laoye Zi. Last night, why
-didn't she use the deathly stances of 'qian zhu wan du shou' \[hand of
-thousand spiders ten thousands poisons\] when she fought with the
-Persian Three Emissaries?"\
-\
+didn't she use the deathly stances of 'qian zhu wan du shou' [hand of
+thousand spiders ten thousands poisons] when she fought with the
+Persian Three Emissaries?"
+
 "Qian zhu wan du shou?" Xie Xun asked, "Mrs. Han does not know that
 skill. She is a woman of an outstanding beauty, and she cherishes her
 appearance more than her life; how could she be willing to practice this
-kind of skill?"\
-\
+kind of skill?"
+
 Zhang Wuji, Zhao Min and Zhou Zhiruo were startled; they thought Jin Hua
 Popo was ugly. Looking at her present appearance, even if she was
 thirty, forty years younger, it would be very difficult for them to say
 that she possessed an outstanding beauty. Her nose was crooked and her
 lips thick; her face was oval-shaped, her ears as big as a pair of fans.
-Certainly these features would not change over time.\
-\
+Certainly these features would not change over time.
+
 Zhao Min laughed and said, "Laoye Zi, I'll say Jin Hua Popo's beauty is
-nowhere near 'outstanding.'"\
-\
-"What?" Xie Xun said, "Zi Shan Long Wang's \[purple-robed dragon king\]
+nowhere near 'outstanding.'"
+
+"What?" Xie Xun said, "Zi Shan Long Wang's [purple-robed dragon king]
 beauty is similar to deities'. Twenty some years ago she was the Wulin
 World's Number One Beauty. Granted that she is advanced in years now,
 but her gracefulness in the past should still be there ... Ay, too bad I
-cannot see her anymore."\
-\
+cannot see her anymore."
+
 Listening to him speaking seriously, Zhao Min had a vague feeling that
 something was wrong; this ugly, hunched back and sickly woman was the
 Wulin World's Number One Beauty? Nobody would buy that. "Laoye Zi," she
 asked, "Your name shook the Jianghu, your martial art skill is high, so
-nobody would doubt you. Bai Mei Ying Wang \[white-browed eagle king\]
+nobody would doubt you. Bai Mei Ying Wang [white-browed eagle king]
 founded a cult. He managed to stand equally with the six major sects,
 and even fought valiantly against them for over twenty years. Qing Yi Fu
-Wang \[green-winged bat king\] comes and goes like a ghost. That day at
+Wang [green-winged bat king] comes and goes like a ghost. That day at
 the Wan An Temple he threatened to destroy my face; hereafter if I think
 about it, I am still shivering in fear. On the other hand Jin Hua Popo
 to have a position above the other three is rather unsuitable although
 her martial art skill is also high and quite resourceful. I wonder
-why?"\
-\
-Xie Xun replied, "That was because Yin Er Ge \[Second (older Brother
-Yin\], Wei Si Di \[Fourth (younger) Brother Wei) and I, three people
-were willing to yield to her."\
-\
+why?"
+
+Xie Xun replied, "That was because Yin Er Ge [Second (older Brother
+Yin], Wei Si Di [Fourth (younger) Brother Wei) and I, three people
+were willing to yield to her."
+
 "Why?" Zhao Min asked. Suddenly she chuckled and said, "Because she was
 the most beautiful woman in the world, three great heroes were willing
 to submit under her skirt?" She was a Mongolian woman, who did not
 confine herself to senior-junior propriety; whatever came into her mind,
-she would unscrupulously blurt it out as a joke toward Xie Xun.\
-\
+she would unscrupulously blurt it out as a joke toward Xie Xun.
+
 Surprisingly, Xie Xun was not angered. He sighed and said, "Do you think
 only three people who willingly submitted under her skirt? If I say
 there were a hundred people inside and outside the Cult who hoped to
-attain Taj-kis' favor, I am afraid that number is still too few."\
-\
+attain Taj-kis' favor, I am afraid that number is still too few."
+
 "Taj-kis?" Zhao Min wondered, "Is that Mrs. Han? How come her name is so
-strange?"\
-\
-"She is a Persian," Xie Xun said, "That is a Persian name."\
-\
+strange?"
+
+"She is a Persian," Xie Xun said, "That is a Persian name."
+
 Zhang Wuji, Zhao Min and Zhou Zhiruo were stunned; "She is a Persian?"
-they asked almost simultaneously.\
-\
+they asked almost simultaneously.
+
 "Can't you all see?" Xie Xun was surprised, "She was born of a mixed
 marriage between a Chinese and a Persian. Her hair and eyes are black,
 but her nose is high and her eyes deep; her skin is as white as snow;
 greatly different from the women of the Central Plains. It is so easy to
-distinguish."\
-\
+distinguish."
+
 "No, no!" Zhao Min said, "Her nose is low, her eyes are like a pair of
 slits on her face; completely different from your description. Zhang
-Gongzi, isn't that right?"\
-\
+Gongzi, isn't that right?"
+
 "That's right," Zhang Wuji said, "Could it be that she is like Ku
-Toutuo, deliberately destroying her own face?"\
-\
-"Who is Ku Toutuo?" Xie Xun asked.\
-\
-"He is the Ming Cult's Guang Ming You Shi \[right emissary of the
-brightness\], Fan Yao," Zhang Wuji replied. Thereupon he briefly told
+Toutuo, deliberately destroying her own face?"
+
+"Who is Ku Toutuo?" Xie Xun asked.
+
+"He is the Ming Cult's Guang Ming You Shi [right emissary of the
+brightness], Fan Yao," Zhang Wuji replied. Thereupon he briefly told
 him how Fan Yao had destroyed his face and entered the Ruyang Palace as
-a spy.\
-\
-Xie Xun sighed, "This act by Fan Xiong \[brother Fan\], done in pain and
+a spy.
+
+Xie Xun sighed, "This act by Fan Xiong [brother Fan], done in pain and
 suffering, was a great merit to our Cult; not everybody is capable of
-doing that. Ay, part of it was also because of Mrs. Han's affair."\
-\
+doing that. Ay, part of it was also because of Mrs. Han's affair."
+
 "Laoye Zi," Zhao Min said, "Please don't keep us in suspense. Why don't
-you tell us everything from beginning to the end?"\
-\
+you tell us everything from beginning to the end?"
+
 "Hmm," Xie Xun raised his head up and was lost in thought for half a day
 before he slowly said, "Twenty some years ago, the Ming Cult was quite
 prosperous under Yang Jiaozhu's leadership. One particular day three
 Persian foreigners suddenly appeared at the Brightness Peak, to deliver
 the personal letter of the Persian Central Cult's Jiaozhu addressed to
 Yang Jiaozhu. The letter said that the Persian Central Cult had a Jing
-Shan Shizhe \[lit. clean and virtuous emissary\], who was Chinese. He
+Shan Shizhe [lit. clean and virtuous emissary], who was Chinese. He
 had lived in Persia for a long time; joined the Ming Cult, and rendered
 quite a few meritorious services. He married a Persian woman and had a
 daughter. This Jing Shan Shizhe passed away a year ago. On his deathbed
 he remembered his native land and wished his daughter be sent to China.
 The Central Cult's Jiaozhu honored his wish and thus dispatched some
 people to escort his daughter to the Brightness Peak; hoping that the
-Central Earth's Ming Cult would look after her.\
-\
+Central Earth's Ming Cult would look after her.
+
 Yang Jiaozhu readily agreed and invited the daughter to come in. As that
 young woman entered the main hall, immediately it was as if the hall was
 filled with a glorious light; nothing could describe her glaring beauty.
 As she knelt down to pay her respects toward Yang Jiaozhu, there wasn't
 any one who was not shaken among everybody in that hall, including the
 Left and Right Brightness Emissaries, the three Protector Kings, the
-Five Wanderers and the Five-Element Flags.\
-\
+Five Wanderers and the Five-Element Flags.
+
 The three Persian escorts only stayed at the Brightness Peak overnight;
 they took their leave the very next day. Since then, this glamorous
-Persian girl, Taj-kis lived at the Brightness Peak."\
-\
+Persian girl, Taj-kis lived at the Brightness Peak."
+
 "Laoye Zi," Zhao Min said with a laugh, "At that time you were also
 mesmerized by this glamorous Persian woman, were you not? Come on, don't
-be shy; admit it honestly."\
-\
+be shy; admit it honestly."
+
 "No!" Xie Xun shook his head, "At that time I was a newlywed; I loved my
 wife dearly, and she was pregnant. How could I think about another
-woman?"\
-\
+woman?"
+
 "Oy," Zhai Min muttered, silently scolding herself for making an
 indiscreet remark. She knew that Xie Xun's wife and son were killed by
 Cheng Kun. This time she inadvertently brought it up, she knew she would
 unavoidably bring grief to Xie Xun's heart; hastily she said, "That's
 right, that's right! No wonder Mrs. Han said that when she married Yin
-Ye Xian Sheng \[Mr. Silver Leaf\], everybody on the Brightness Peak
+Ye Xian Sheng [Mr. Silver Leaf], everybody on the Brightness Peak
 opposed her, except Yang Jiaozhu and you, who treated her very well. I
 bet Jiaozhu's wife was not only beautiful, but also an expert in martial
-arts, so she won over her husband's heart."\
-\
+arts, so she won over her husband's heart."
+
 "Yang Jiaozhu was generous, brave and chivalrous," Xie Xun said,
 "Taj-kis' age was appropriate to be his daughter. Besides, the Persian
 Central Cult has entrusted her to him, so Yang Jiaozhu always treated
 her with utmost respect; definitely he did not have any inappropriate
-thoughts against her. Mrs. Jiaozhu was my Shifu's shimei \[martial
-(younger) sister\], she was my Shigu \[martial aunt\]. Yang Jiaozhu
-loved his wife very much."\
-\
+thoughts against her. Mrs. Jiaozhu was my Shifu's shimei [martial
+(younger) sister], she was my Shigu [martial aunt]. Yang Jiaozhu
+loved his wife very much."
+
 Cheng Kun had killed his entire family; Xie Xun bore a long and deep
 hatred toward him but when mentioning Cheng Kun's name, Xie Xun said it
-lightly, as if he was mentioning other people's name.\
-\
+lightly, as if he was mentioning other people's name.
+
 Zhao Min asked, "I heard when he was young, Ku Toutuo Fan Yao was a very
-handsome man. Did he fall in love with Taj-kis?"\
-\
+handsome man. Did he fall in love with Taj-kis?"
+
 Xie Xun nodded; "It was love at first sight," he said, "Later on it
 became a kind of infatuation written-in-his-heart and
 engraved-on-his-bone. In fact, I am afraid I seldom find a man whose
@@ -16805,80 +16805,80 @@ her and Fan Yao. Taj-kis flatly declined. Later on, she went as far as
 swore publicly, with a sword horizontally across her body, saying that
 she would never get married, and that she would rather die if anybody
 forced her. Because of this, everybody's heart also turned cold towards
-her.\
-\
+her.
+
 One day about half a year later, somebody from Ling She Island came to
 the Brightness Peak. He said his surname was Han, given name Qianye
-\[lit. thousand leaves\], a son of Yang Jiaozhu's enemy of the former
+[lit. thousand leaves], a son of Yang Jiaozhu's enemy of the former
 days. He came to avenge his father. Admittedly, nobody thought this
 youngster surnamed Han's appearance was astonishing. Seeing his
 surprising boldness in coming to the Brightness Peak to challenge Yang
 Jiaozhu, everybody burst out in laughter. But Yang Jiaozhu's expression
 was serious; he received him as an honored guest and prepared a banquet
-to welcome him.\
-\
+to welcome him.
+
 After the feast, Yang Jiaozhu explained to the brethrens how in the past
 due to a misunderstanding he had seriously injured this lad's father
-using the 'da jiu tian shou' \[great nine heavenly hands\] that his
+using the 'da jiu tian shou' [great nine heavenly hands] that his
 father fell on his knees and was unable to stand back up. At that time
 the father said that he was going to avenge this enmity; only realizing
 his martial art skill would not advance anymore, he promised that he
-would send his son or his daughter.\
-\
+would send his son or his daughter.
+
 Yang Jiaozhu said that whomever he would send, whether a son or a
 daughter, Yang Jiaozhu would yield to him or her for three stances. That
 man replied that he would not expect Yang Jiaozhu to yield, but he would
 ask that if they were to have a martial art duel, to have his son or
 daughter choose the method on how they would fight. At that time Yang
-Jiaozhu gave his consent.\
-\
+Jiaozhu gave his consent.
+
 A dozen or so years had passed; Yang Jiaozhu had already set this matter
 aside from his mind. Who would have thought that the man surnamed Han
 did indeed send his son to seek revenge. Everybody thought that it would
 be well if he did not come; but once he came, nothing good would happen
-to him \['shan zhe bu lai, lai zhe bu shan'\]. This man dared to come
+to him ['shan zhe bu lai, lai zhe bu shan']. This man dared to come
 alone to the Brightness Peak, he must have had an astonishing skill. But
 Yang Jiaozhu's martial art skill was very high; it could be said that
 nobody in this present age could be compared to him. Other than Wudang
-Pai's Zhang Sanfeng Zhenren \[lit. real/true man, a term of respect to
-address a Taoist priest\], nobody would be able to take his one stance
+Pai's Zhang Sanfeng Zhenren [lit. real/true man, a term of respect to
+address a Taoist priest], nobody would be able to take his one stance
 or half a form. How old could this man surnamed Han be? Yang Jiaozhu did
 not have anything to be worried about even if he was three times or five
 times his age. We were anxious only over how they were going to have
-their duel.\
-\
+their duel.
+
 Chapter 30 -- Part 3 On the next day, in front of everybody Han Qianye
 first explained the agreement of the past, cornering Yang Jiaozhu so
 that he could not deny his promise, and then he presented his request.
 To everybody's surprise, he wanted to fight against Yang Jiaozhu inside
-the 'bi shui han tan' \[bluish green water cold pool\] on the Brightness
-Peak to decide victory or defeat.\
-\
+the 'bi shui han tan' [bluish green water cold pool] on the Brightness
+Peak to decide victory or defeat.
+
 As he said that, everybody was shocked. The water of 'bi shui han tan'
 was really cold, penetrating the bones. Even in the heat of the summer
-nobody dared to enter in, much less in the middle of the winter?\
-\
+nobody dared to enter in, much less in the middle of the winter?
+
 Although Yang Jiaozhu's martial art skill was high, his water skill was
 only so-so. If he went into the 'bi shui han tan', , he would be frozen
 to death, or drown to his death inside the water without even contending
 in martial arts. At that moment, all warriors and heroes in the Sheng
-Huo Ting \[holy fire hall\] opened their mouths to denounce the young
-man."\
-\
+Huo Ting [holy fire hall] opened their mouths to denounce the young
+man."
+
 "That was a very difficult dilemma," Zhang Wuji said, "Once a word left
 a real man's mouth, four horses would not be able to chase it. Yang
 Jiaozhu had made a promise to that man surnamed Han that he would let
 his son or daughter to pick the way they would fight. That Han Qianye
-Lao Qianbei \[senior, older generation\] picked water battle; reasonably
-speaking, Yang Jiaozhu could not refuse."\
-\
+Lao Qianbei [senior, older generation] picked water battle; reasonably
+speaking, Yang Jiaozhu could not refuse."
+
 Zhao Min reached out to the back of his hand and pinched it lightly; she
 laughed and said, "That's right! Once a word left a real man's mouth,
 four horses would not be able to chase it. What kind of man was the Ming
 Cult's Jiaozhu? How could he swallow back his words, break his own
 promise to the world? Once he gave his consent regarding other people's
-matters, then he should fulfill his promise."\
-\
+matters, then he should fulfill his promise."
+
 She was saying that to Zhang Wuji, reminding him about the oath of honor
 between them; but of course Xie Xun did not know that. "That's exactly
 so," he said, "That day Han Qianye clearly said, 'I am going up the
@@ -16886,141 +16886,141 @@ Brightness Peak alone, I am not hoping to go down this mountain alive.
 The heroes and warriors can simply kill me; nobody in the Jianghu will
 find out. I am only a nameless lowly character. What difference does it
 make if there is one less of me? If you want to kill me, go ahead.' When
-everybody heard what he said, they could not say anything anymore.\
-\
+everybody heard what he said, they could not say anything anymore.
+
 Yang Jiaozhu was silent for half a day before he finally said, 'Han
-Xiongdi \[Brother Han\], I have made an agreement with your honorable
+Xiongdi [Brother Han], I have made an agreement with your honorable
 father. A hero must be frank; I already lost this duel. I am going to
-comply with whatever you have in mind.'\
-\
+comply with whatever you have in mind.'
+
 Han Qianye flipped his wrist and produced a brilliantly gleaming dagger;
 he pointed the dagger to his own chest and said, 'This dagger is
-Xianfu's \[late/departed father\] legacy; I am only asking Yang Jiaozhu
-to kowtow three times to this dagger.'\
-\
+Xianfu's [late/departed father] legacy; I am only asking Yang Jiaozhu
+to kowtow three times to this dagger.'
+
 As the warriors heard him, there wasn't anybody who was not angered; how
 could a Ming Cult's Cult Leader take this humiliation? But Yang Jiaozhu
 has admitted defeat; according to the Jianghu custom, he had no choice
-but comply with the opponent's wishes.\
-\
+but comply with the opponent's wishes.
+
 The situation was clear; Han Qianye came staking everything he got, as
 soon as Yang Jiaozhu kowtowed three times, he would immediately thrust
 the dagger into his own chest to avoid being killed by the warriors of
-the Ming Cult.\
-\
+the Ming Cult.
+
 In that instant, the main hall was awfully quiet. The Brightness Left
-and Right Emissaries, Xiao Yao Er Xian \[Xiao and Yao, two immortals\],
-White-browed Eagle King Yin Er Ge \[second (older) brother\], Peng
-Yingyu Heshang \[Buddhist monk\], and the others are all excellent
+and Right Emissaries, Xiao Yao Er Xian [Xiao and Yao, two immortals],
+White-browed Eagle King Yin Er Ge [second (older) brother], Peng
+Yingyu Heshang [Buddhist monk], and the others are all excellent
 strategists, but facing this difficult problem, they were at their wits'
 end. It was obvious to them that Han Qianye intended to humiliate Yang
 Jiaozhu the same way his father was forced to fall on his knees; and
-then he would kill himself.\
-\
+then he would kill himself.
+
 In this critical moment, Taj-kis suddenly stepped forward and said to
 Yang Jiaozhu, 'Father, he is a good and filial son; but don't you also
 have a good and filial daughter? This Master Han is seeking revenge on
 behalf of his father, so it is only appropriate if your daughter fight
 him on your behalf. The older generation dealt with the older
 generation, the younger generation deals with the younger generation; no
-confusion in generational gap here.'\
-\
-Everybody was surprised, 'Why did she call Yang Jiaozhu 'tie-tie' \[dad,
-father\]?' But straight away they understood, 'She is pretending to be
+confusion in generational gap here.'
+
+Everybody was surprised, 'Why did she call Yang Jiaozhu 'tie-tie' [dad,
+father]?' But straight away they understood, 'She is pretending to be
 his daughter to help him out of this distress.' They also thought,
 'Looking at her pretty and delicate features, does she know martial
 arts? Even if she does, her skill is certainly not too high, so to have
-a water battle in the 'bi shui han tan' is even more out of question.'\
-\
+a water battle in the 'bi shui han tan' is even more out of question.'
+
 Yang Jiaozhu has not replied, Han Qianye has already laughed coldly and
 said, 'It's certainly all right if Miss wants to fight on behalf of your
 father; but if Miss loses, I am still going to insist that Yang Jiaozhu
 kowtow three times toward my Xianfu's dagger.' He has noticed that
 Taj-kis was a pretty and delicate girl, of course he did not consider
-her a threat to him.\
-\
-Taj-kis replied, 'What if Sire loses?'\
-\
+her a threat to him.
+
+Taj-kis replied, 'What if Sire loses?'
+
 Han Qianye said, 'You want to kill me or chop me, it's entirely up to
-you.'\
-\
+you.'
+
 'Good!' Taj-kis replied, 'Let us go to the 'bi shui han tan' then.' As
-she said that, she had already preceded him walking toward the pool.\
-\
+she said that, she had already preceded him walking toward the pool.
+
 Yang Jiaozhu hastily waved his hand, 'No,' he said, 'This matter does
-not have anything to do with you.'\
-\
+not have anything to do with you.'
+
 'Father,' Taj-kis replied, 'Don't you worry.' And she respectfully knelt
 down to him. It was as if with this kneeling down, she acknowledged Yang
 Jiaozhu as her Yifu. Yang Jiaozhu saw that she had high confidence;
 other than that, he did not have any other idea. Hence, he was obliged
-to listen to her proposition.\
-\
+to listen to her proposition.
+
 Immediately everybody went to the 'bi shui han tan' on the northern side
 of the mountain. By that time the northern wind was blowing intensely,
 as we arrived by the pool side, the cold air attacked us furiously.
 Those whose internal energy was somewhat lower had already felt
 discomfort. The water in the pool had turned into ice for quite a while,
 below the surface the water looked deep blue, we could not see the
-bottom.\
-\
+bottom.
+
 Yang Jiaozhu did not want Taj-kis to risk her life for him, he boldly
 said, 'Dear Daughter, I accept your good intention, but let me fulfill
 Han Xiong's wish.' As he said that, he took off his outer garment, and
 with a single dagger in his hand he was ready to jump in; this time he
-had made up his mind not to back off.\
-\
+had made up his mind not to back off.
+
 Taj-kis smiled and said, 'Father, your daughter grew up by the sea;
 since I was little my water skill has been very good.' Immediately she
 unsheathed her sword and leaped to the middle of the pool. Standing on
 the ice she turned her sword to make a circle about two feet in
 diameter. With her left foot she treaded on the ice, 'crack!' the round
-ice broke and she jumped into the water."\
-\
+ice broke and she jumped into the water."
+
 At that moment a gust of sea breeze from the north brushed their
 clothing. Xie Xun continued his narration, "Each time I recalled the
 scene by the 'bi shui han tan' that day, it always seems like yesterday
 to me. Taj-kis was wearing a lavender gown. Standing on the ice that
-day, she looked like the 'ling bo xian zi' \[Immortal/Deity/Goddess Ling
-Bo\]. Silently and instantly she disappeared into the water below; the
-crowd of warriors was amazed.\
-\
+day, she looked like the 'ling bo xian zi' [Immortal/Deity/Goddess Ling
+Bo]. Silently and instantly she disappeared into the water below; the
+crowd of warriors was amazed.
+
 As Han Qianye watched the way she entered the water, the haughty
 expression on his face disappeared. He followed, jumping into the pool
-with the dagger in his hand.\
-\
+with the dagger in his hand.
+
 The pool was dark green; nobody could see the battle raging underneath
 the surface from above the water, but the water was bubbling
-continuously.\
-\
+continuously.
+
 After a while the bubbling gradually ceased. But before long the water
 started to bubble again. The Ming Cult warriors were extremely anxious.
 Those two had been in the water for a long time, how could they survive
-underwater for that long?\
-\
+underwater for that long?
+
 A moment later a wisp of dark red blood appeared on the green deep
 water. Everybody was even more anxious, not knowing if Taj-kis was
 injured. Suddenly 'splash!' Han Qianye jumped out from the water,
-gasping for breath, panting heavily.\
-\
+gasping for breath, panting heavily.
+
 Seeing him jumping out first, everybody was shocked; they surged forward
 and asked, 'Where is Taj-kis? What happened to her?' But then they saw
 that his hands were empty, his dagger was actually stuck on his right
-chest, while there was a long scar on each of his cheeks.\
-\
+chest, while there was a long scar on each of his cheeks.
+
 While everybody was still in shock, Taj-kis flew up from the water like
 a flying fish, with her sword in front of her body as a shield. She made
 a flip in the air and lightly landed on the ice. The warriors broke into
 loud cheers. Yang Jiaozhu went forward to grab her hand; he was
 speechless from extreme delight. Nobody would guess that this cute and
-tender girl possessed such magnificent water skill.\
-\
+tender girl possessed such magnificent water skill.
+
 Taj-kis looked at Han Qianye and said, 'Father, this man's water skill
 is not bad. Taking into account that he was a filial son seeking revenge
 for his father, could his rudeness toward Jiaozhu be forgiven?'
-Naturally, Yang Jiaozhu granted her request; he ordered Shen Yi \[Divine
-Doctor\] Hu Qingniu to treat his injury.\
-\
+Naturally, Yang Jiaozhu granted her request; he ordered Shen Yi [Divine
+Doctor] Hu Qingniu to treat his injury.
+
 That very evening there was a huge banquet on the Brightness Peak;
 everybody agreed that Taj-kis has rendered a great service to the Ming
 Cult. If not for her stepping out to take the matter over, Yang
@@ -17032,9 +17032,9 @@ her hold the chief position among the four kings; since her great merit
 that day easily surpassed the other three kings' merits of the past.
 Afterwards the three 'hu jiao fa wang' and she, four brothers and
 sister, agreed on how to address each other; hence she called me 'Xie
-San Ge' ever since.\
-\
-\[Translator's note: 'hu jiao fa wang' ('hu' -- protect, 'jiao' -- Cult,
+San Ge' ever since.
+
+[Translator's note: 'hu jiao fa wang' ('hu' -- protect, 'jiao' -- Cult,
 'fa' -- law, 'wang' -- king) has been translated as 'Protector King'
 throughout this novel. I believe the more accurate translation should be
 'Protector of the Cult, Law Enforcement King', or 'Judge'. (The same 'fa
@@ -17042,87 +17042,87 @@ wang' was translated 'imperial priest', as in Jin Lun Fa Wang, in Shen
 Diao Xia Lu -- RoCH) I am going to keep using the term 'Protector King',
 interchangeably with 'fa wang' for the remainder of this novel; I want
 the readers to be informed that the term carries a broader sense than
-simply 'Protector King.'\]\
-\
+simply 'Protector King.']
+
 The battle of 'bi shui han tan' has brought another repercussion beyond
 anybody's anticipation. Han Qianye was defeated in the battle, but
 somehow he won Taj-kis' heart. I don't know whether it was because she
 visited him on his sick bed everyday, or love grew out of pity, or
 passion out of regret; but when Han Qianye recovered, suddenly Taj-kis
-reported to Jiaozhu that she wanted to marry this man.\
-\
+reported to Jiaozhu that she wanted to marry this man.
+
 As we heard this news, some were grieving because their hopes were
 shattered, some deeply resented it; because this Han Qianye had forced
 our Jiaozhu to be under an extremely difficult situation. How could our
 own 'hu jiao fa wang' marry this man? Some of the more temperamental
-brethrens spoke insultingly to her face.\
-\
+brethrens spoke insultingly to her face.
+
 Taj-kis was adamant. Holding a sword in her hand, she stood at the hall
 entrance and loudly said, 'From this day forward, Han Qianye is my
-husband. Whoever insults Han-lang \[a term of endearment for
-'husband'\], will have to face Zi Shan Long Wang's sword!' Seeing this
-turn of event, everybody could only disperse bitterly.\
-\
+husband. Whoever insults Han-lang [a term of endearment for
+'husband'], will have to face Zi Shan Long Wang's sword!' Seeing this
+turn of event, everybody could only disperse bitterly.
+
 On the day she wedded Han Qianye, most of our brethrens did not come to
 drink the celebratory wine. Only Yang Jiaozhu and I, who were
 appreciative for what she did, strived to help her and mediate for her,
-so that she could have a safe marriage, not lacking anything.\
-\
+so that she could have a safe marriage, not lacking anything.
+
 When Han Qianye wanted to enter the Ming Cult, the opposition from the
 brethrens was too strong; it was also inconvenient for Yang Jiaozhu to
-disregard the public opinion.\
-\
+disregard the public opinion.
+
 Not too long afterwards, Yang Jiaozhu husband and wife suddenly
 disappeared together. The Brightness Peak was in panic. Everybody went
 everywhere to track them down. One evening Guangming You Shi Fan Yao
-unexpectedly saw Mrs. Han Taj-kis come out of the secret passage."\
-\
+unexpectedly saw Mrs. Han Taj-kis come out of the secret passage."
+
 Zhang Wuji's heart was moved. "She came out of the secret passage?" he
-asked.\
-\
+asked.
+
 "That's right," Xie Xun replied, "The Ming Cult's law is very strict;
 other than Jiaozhu, nobody is allowed to enter the secret passage. Fan
 Yao was shocked and angered; immediately he asked and reproached her.
 Mrs. Han said, 'I have committed a grave offense to our Cult; you want
-to kill me or chop me, it's entirely at your convenience.'\
-\
+to kill me or chop me, it's entirely at your convenience.'
+
 That very evening we had a general assembly. Mrs. Han kept repeating
 those words. When asked for what reason she entered the secret passage,
 she said she was not willing to tell lies, but she was also unwilling to
 tell the truth. When asked where Yang Jiaozhu had gone; she said she did
 not know. As for the matter of her entering the secret passage, she said
 she alone had done it, she alone was responsible; there was no need to
-say too much.\
-\
+say too much.
+
 According to our law, she either had to kill herself or cut off one of
 her limbs; but first of all, Fan Yao had not forgotten his feelings of
 the past, he did his utmost to cover up for her, secondly, I also
 pleaded on her behalf. Finally, the general assembly agreed to punish
 her by confining her for ten years, so that she could consider her
 crime. Who would have thought that Mrs. Han said, 'Yang Jiaozhu is not
-here, nobody can punish me.'"\
-\
-"Yifu," Zhang Wuji asked, "Why did Mrs. Han enter the secret passage?"\
-\
+here, nobody can punish me.'"
+
+"Yifu," Zhang Wuji asked, "Why did Mrs. Han enter the secret passage?"
+
 "That's a long story," Xie Xun replied, "In the Ming Cult, only I alone
 know the reason. At that time everybody suspected it had something to do
 with the missing Yang Jiaozhu, husband and wife; but I am convinced it
-wasn't related with that matter in any way.\
-\
+wasn't related with that matter in any way.
+
 In the Holy Fire Hall of the Brightness Peak that day, there was a
 strong argument among the warriors, and it resulted in Mrs. Han leaving
 the Cult, saying that from that day on, she would have nothing to do
 with the Ming Cult of the Central Earth. She was the very first person
 to ever leave the Ming Cult. That very day Han Qianye and she left the
-peak and disappeared without any trace.\
-\
+peak and disappeared without any trace.
+
 Thereafter the Cult brethrens went around everywhere to find Jiaozhu
 without any result. A few years later the internal strife over the
 Jiaozhu position got worse. Bai Mei Yin Er Ge also left the peak and
-founded the Heavenly Eagle Cult \['tian ying jiao'\]. I persuaded and
+founded the Heavenly Eagle Cult ['tian ying jiao']. I persuaded and
 pleaded with him, but he would not listen. Because of that, he and I
-became enemies.\
-\
+became enemies.
+
 More than twenty years ago, by the Wangpan Mountain the Heavenly Eagle
 Cult showed off the Saber to flaunt their power and prestige. Jin Mao
 Shi Wang hurriedly appeared on that gathering. First, to snatch the
@@ -17130,54 +17130,54 @@ Tulong Saber away; second, to vent my anger over the dispute of the
 former days. I intentionally wanted to give Yin Er Ge a hard time; to
 let him know that after leaving the Ming Cult, he might not be able to
 accomplish anything great. Ay! When I think about it now, I was rather
-carried away by my feelings and went too far!"\
-\
+carried away by my feelings and went too far!"
+
 He heaved a long sigh, as if he was unleashing the inexhaustibly bitter
 feelings of the past and mourning over the countless disturbances in the
-Jianghu; during which the others were silent for half a day.\
-\
+Jianghu; during which the others were silent for half a day.
+
 "Laoye Zi," Zhao Min said, "Afterwards, the names of Jin Hua Yin Ye
-\[golden flower silver leaf\] shook the Jianghu. Why was it that nobody
+[golden flower silver leaf] shook the Jianghu. Why was it that nobody
 from the Ming Cult recognized their true identities? That Yin Ye
-Xiansheng \[Mr. Silver Leaf\] must be Han Qianye; how did he get killed
-by poison?"\
-\
+Xiansheng [Mr. Silver Leaf] must be Han Qianye; how did he get killed
+by poison?"
+
 "I am not clear on that matter myself," Xie Xun said, "When they,
 husband and wife, roamed the Jianghu, they always avoid Ming Cult
-people."\
-\
+people."
+
 "That's right," Zhang Wuji said, "Jin Hua Popo has always avoided the
 Ming Cult. When the Six Major Sects besieged the Ming Cult, she did not
-go up to lend a hand even though she was in the vicinity of the Peak."\
-\
+go up to lend a hand even though she was in the vicinity of the Peak."
+
 Zhao Min pondered over it and said, "But Zi Shan Long Wang was the
 beauty of her era; how did she become that ugly? Her face did not show
-any sign of damage."\
-\
+any sign of damage."
+
 Xie Xun said, "I guess she is using some clever trick to change her
 appearance. In all her life, Mrs. Han has always been a peculiar person,
 but actually she endures an unspeakable suffering in her heart. She has
 always avoided the Persian Central Cult's people's pursue, but who would
-have thought she is still unable to escape in the end."\
-\
+have thought she is still unable to escape in the end."
+
 "Why is the Persian Central Cult looking for her?" Zhang Wuji and Zhao
-Min asked simultaneously.\
-\
+Min asked simultaneously.
+
 "This is Mrs. Han's biggest secret," Xie Xun replied, "Actually, I
 should not say it, but I am hoping that you would return to the Ling She
-Island to save her; so I'll have to tell you this."\
-\
+Island to save her; so I'll have to tell you this."
+
 "Return to the Ling She Island?" Zhao Min wondered, "Do you think we can
-overcome those Persian Three Emissaries?"\
-\
+overcome those Persian Three Emissaries?"
+
 Xie Xun did not answer directly, but he told this story instead: "For
 several hundred years, the Ming Cult of the Central Earth has always had
 a man as our Jiaozhu; but the Persian Central Cult's Jiaozhu has always
 been a woman, not only that, but the woman must be a virgin. The Holy
 Scripture of the Central Cult clearly stipulated that the virgin maiden
 is necessary to maintain the Ming Cult's sacred purity. Right after each
-Jiaozhu takes office, three maidens, called the 'sheng nu' \[holy
-maiden\] are appointed from among the Cult's high-level officials. After
+Jiaozhu takes office, three maidens, called the 'sheng nu' [holy
+maiden] are appointed from among the Cult's high-level officials. After
 these three holy maidens take an oath, they are sent out to do good
 deeds and render meritorious service to the Ming Cult. As the current
 Jiaozhu pass away, the elders of the Cult convene to evaluate the three
@@ -17186,11 +17186,11 @@ then designated to be the new Jiaozhu. But if there is any holy maiden
 who loses her chastity, she will be punished by getting burned alive;
 even if she runs away to the ends of the earth, the Cult will dispatch
 people to pursue her, in order to maintain the purity of the sacred
-teaching ..."\
-\
+teaching ..."
+
 As he spoke to this point, Zhao Min interjected, "Is that Mrs. Han one
-of the three holy maidens of the Central Cult?"\
-\
+of the three holy maidens of the Central Cult?"
+
 "Correct!" Xie Xun nodded his head, "I was already aware of it even
 before Fan Yao found out she came out of the secret passage. Mrs. Han
 considered me as a friend; therefore, she told me everything. During the
@@ -17204,344 +17204,344 @@ the secret passage stealthily to find the 'qian kun dai nuo yi' manual.
 The Central Cult had lost this manual for a long time; the only copy
 left belonged to the Central Earth Ming Cult. As a matter of fact, the
 real reason the Central Cult sent her to the Brightness Peak was to find
-this manual."\
-\
+this manual."
+
 "Ah," Zhang Wuji exclaimed. He vaguely felt something was wrong, but
-after thinking for a while he still could not figure it out.\
-\
+after thinking for a while he still could not figure it out.
+
 In the meantime, Xie Xun continued, "Mrs. Han had entered the secret
 passage several times, but could not find the manual. As I learned about
 it I gave her a serious warning that this matter was a grave offense to
-the Cult's law, which would not be easily forgiven ..."\
-\
+the Cult's law, which would not be easily forgiven ..."
+
 "Ah, I know!" Zhao Min interrupted again, "Mrs. Han left the Cult
 because she wanted to enter the secret passage. Since she is not a
 member of the Central Earth Ming Cult, then the restriction did not
-apply to her."\
-\
+apply to her."
+
 "Miss Zhao is so smart," Xie Xun said, "But the Brightness Peak is our
 headquarters, how could we allow outsiders to come and go as they wish?
 At that time I've also guessed her intention, so after Mrs. Han left the
 mountain, I personally guarded the secret passage entrance. Mrs. Han did
 indeed come up the mountain three times, each time she met me; finally,
-she gave up."\
+she gave up."
 Xie Xun thought deeply for a moment, then he asked, "Those Persian Three
 Emissaries' clothing, in what way they are different from what they have
-in the Central Earth Ming Cult?"\
-\
+in the Central Earth Ming Cult?"
+
 Zhang Wuji replied, "They all wear white robes with blazing flame
 embroidered on the corners ... Hmm, there was a black strip on their
-white robes; that is the only small difference."\
-\
+white robes; that is the only small difference."
+
 "That's it!" Xie Xun slapped the edge of the boat and exclaimed, "The
 Central Cult Jiaozhu has passed away. The people of the west use black
 as their mourning clothes. White robes with black lining, those are
 their mourning garments. They are going to elect a new Jiaozhu, that's
 why they came tens of thousands 'li's to the faraway Central Earth to
-find Mrs. Han's whereabouts."\
-\
+find Mrs. Han's whereabouts."
+
 Zhang Wuji said, "Since Mrs. Han came from Persia, she must be familiar
 with the Persian Three Emissaries' weird martial arts. How come in less
-than a stance she was captured by them?"\
-\
+than a stance she was captured by them?"
+
 Zhao Min laughed and said, "You idiot; Mrs. Han is in disguise, of
 course she could not reveal that she knew the Persian Emissary's martial
 art. From what I understood, supposing Xie Laoye Zi had listened to
 their order and killed her, Mrs. Han would certainly find a way to
-escape."\
-\
+escape."
+
 Xie Xun shook his head, "She is not willing to reveal her own identity,
 that part is correct. But if you think that she was capable of escaping
 after her acupoint was sealed by the Persian Three Emissaries, that
 might not necessarily be true. In anyway, she would rather be killed by
-my blade than suffer the pain of being burned alive."\
-\
+my blade than suffer the pain of being burned alive."
+
 "I always think the Central Earth Ming Cult is a malicious cult," Zhao
 Min said, "Who would have thought that the Persian Ming Cult is even
 more evil. Why would they want a virgin to be their Jiaozhu? Why would
-they burn the holy maiden who lost her chastity?"\
-\
+they burn the holy maiden who lost her chastity?"
+
 "Miss talked nonsense," Xie Xun rebuked her, "Each Cult and Sect will
 have their own customs and ceremonial regulations, handed down from
 generation to generation. Buddhist monks and nuns cannot marry, cannot
 eat meat, isn't that custom and ceremonial regulation? What is malicious
-or evil?"\
-\
+or evil?"
+
 Suddenly they heard a 'clack, clack, clack' noise, Yin Li's teeth
 chattered from cold. Zhang Wuji quickly touched her forehead and felt
 his hand was burning hot; a sign that she was suffering from a severe
 fever. "Yifu," he said, "Your child also would like to return to the
 Ling She Island. Miss Yin's condition is very serious, I must find some
 herbs to treat her. We must strive to save Mrs. Han, we must also save
-Miss Yin."\
-\
+Miss Yin."
+
 "That's right," Xie Xun replied, "This Miss Yin loves you this much; how
-can we not save her? Miss Zhou, Miss Zhao, what do you think?"\
-\
+can we not save her? Miss Zhou, Miss Zhao, what do you think?"
+
 "Miss Yin's injury is serious," Zhao Min said, "Mine is not a problem.
-Other than returning to the Ling She Island, what else can we do?"\
-\
+Other than returning to the Ling She Island, what else can we do?"
+
 Zhao Zhiruo unenthusiastically said, "Laoye Zi says we should return
-then we must return."\
-\
+then we must return."
+
 Zhang Wuji said, "We have to wait for the fog to clear up and then we
 can look at the stars to find our bearing. Yifu, that Liuyun Shi was
 somersaulting in the air, but he was able to hurt me with his Sheng Huo
-Ling. How did he do that?"\
-\
+Ling. How did he do that?"
+
 Immediately the two of them discussed the Persian Three Emissaries'
 martial arts. Zhao Min also possessed a vast knowledge of martial arts,
 so occasionally she was able to offer some opinion. But after
 deliberating for half a day, they still could not figure out the essence
-of the coordinated movements of the three people.\
-\
+of the coordinated movements of the three people.
+
 The fog on the ocean lasted until dawn. Zhang Wuji said, "We came from
 the north toward the southeast; hence we need to row toward the
-northwest."\
-\
+northwest."
+
 Zhang Wuji, Xie Xun, Zhou Zhiruo and Xiao Zhao took turn rowing the
 boat. It was not easy to handle that small boat braving the big waves
 against the strong northerly wind. Fortunately, Zhang Wuji and Xie Xun
 possessed profound internal energy; Zhou Zhiruo and Xiao Zhao were not
-weak either. They considered rowing the boat as martial art training.\
-\
+weak either. They considered rowing the boat as martial art training.
+
 For several days, the lone boat headed northwest slowly but surely. Xie
 Xun had been frowning all this time, as he was thinking deeply about the
 Persian Three Emissaries' strange martial art. Other than asking Zhang
-Wuji a few questions, he did not say anything else.\
-\
+Wuji a few questions, he did not say anything else.
+
 Toward the evening of the sixth day, suddenly Xie Xun carefully
 interviewed Zhou Zhiruo about the martial art of Emei Pai, which Zhou
 Zhiruo answered matter-of-factly. Two people exchanged questions and
-answers until very late at night.\
-\
+answers until very late at night.
+
 Xie Xun's expression showed some disappointment as he said, "Shaolin,
 Wudang, Emei, three Sects' martial art was somewhat related to the 'Jiu
-Yang Zhen Jing' \[Nine Yang Manual\]; similar to what Wuji has learned,
-all based on the 'yang gang' \[positive and hard/firm\]. If only Zhang
-Sanfeng Zhenren \[lit. real/true person, a respectable term to address a
-Taoist Priest\] was here, then his extensive martial art skill
-encompassing 'yang gang' and 'yin rou' \[negative and soft/flexible\]
+Yang Zhen Jing' [Nine Yang Manual]; similar to what Wuji has learned,
+all based on the 'yang gang' [positive and hard/firm]. If only Zhang
+Sanfeng Zhenren [lit. real/true person, a respectable term to address a
+Taoist Priest] was here, then his extensive martial art skill
+encompassing 'yang gang' and 'yin rou' [negative and soft/flexible]
 could join hands with Wuji; so yin and yang complement each other, then
 we can defeat the Persian Three Emissaries. But distant water cannot
 extinguish a nearby fire; if Mrs. Han has already fallen into the hands
-of the Persian Three Emissaries, what use is my good idea?"\
-\
+of the Persian Three Emissaries, what use is my good idea?"
+
 "Laoye Zi," Zhou Zhiruo suddenly asked, "I heard a hundred years ago in
 the Wulin world there exist some experts who were proficient in the Jiu
-Yin Zhen Jing \[Nine Yin Manual\]; is that true?"\
-\
-On Mount Wudang, Zhang Wuji had heard his Da Shifu \[great master\]
+Yin Zhen Jing [Nine Yin Manual]; is that true?"
+
+On Mount Wudang, Zhang Wuji had heard his Da Shifu [great master]
 mentioned the name Nine Yin Manual; so he knew that the founder of the
-Emei Pai, Guo Xiang Nuxia's \[heroine\] father, Guo Jing, and the 'Shen
-Diao Daxia' \[Divine Eagle Great Hero\] Yang Guo, both had mastered the
+Emei Pai, Guo Xiang Nuxia's [heroine] father, Guo Jing, and the 'Shen
+Diao Daxia' [Divine Eagle Great Hero] Yang Guo, both had mastered the
 martial arts from the Nine Yin Manual. But the skill contained in the
 Manual was very difficult; so that although Guo Xiang was Guo Jing's own
 daughter, she still had not learned it. Listening to Zhou Zhiruo's
 question he thought, "Could it be that the Emei Pai's founder has handed
-down parts of the skill contained in the Nine Yin Manual?"\
-\
+down parts of the skill contained in the Nine Yin Manual?"
+
 Xie Xun replied, "People of old did say such thing, but nobody knows the
 fact. Based on what I heard from the seniors, if we had someone who
 masters this martial art join hands with Wuji, then they would be able
-to defeat the Persian Three Emissaries."\
-\
-"Hmm," Zhou Zhiruo mumbled and no longer asked any questions.\
-\
+to defeat the Persian Three Emissaries."
+
+"Hmm," Zhou Zhiruo mumbled and no longer asked any questions.
+
 "Miss Zhou," Zhao Min asked, "Do any of your Emei Pai people know this
-martial art?"\
-\
+martial art?"
+
 Zhou Zhiruo replied, "If Emei Pai knew this divine skill, Xian Shi
-\[late/departed master\] would not lose her life at the Wan An Temple."\
-\
+[late/departed master] would not lose her life at the Wan An Temple."
+
 Miejue Shitai passed away because of Zhao Min, so Zhao Zhiruo hated her
 to the bone. Although they were on the same boat through the wind and
 the rain, she had not talked to her even one sentence. This time Zhao
 Min asked her directly, she contradicted her immediately. Zhou Zhiruo
 was gentle by nature; her remark to Zhao Min was already the most rude
 she had talked to anybody in her entire life. Zhao Min was not angry;
-she simply smiled.\
-\
+she simply smiled.
+
 During this entire conversation, Zhang Wuji did not stop rowing the
 boat. Suddenly he looked at the distant and called out, "Look! Look!
-There is fire over there!"\
-\
+There is fire over there!"
+
 Everybody followed his gaze and indeed they saw flashing light of fire
 on the horizon toward their northwest. Although Xie Xun was not able to
 see, he was as excited as everybody else; he took the wooden oar and
-helped to row the boat with all his strength.\
-\
+helped to row the boat with all his strength.
+
 That blazing fire looked near, but actually it was dozens of 'li's away
 on the surface of the ocean; both men had to row for most of the day
 before they got close to it. Zhang Wuji saw the fire was actually on a
 mountainous island, which was precisely the Ling She Island. "We have
-arrived!" he said.\
-\
+arrived!" he said.
+
 "Aiyo!" suddenly Xie Xun exclaimed, "Why is the Ling She Island on fire?
-Did they burn Mrs. Han?"\
-\
-'Thud' suddenly Xiao Zhao fell down on the boat.\
-\
+Did they burn Mrs. Han?"
+
+'Thud' suddenly Xiao Zhao fell down on the boat.
+
 Zhang Wuji was shocked; he leaped to help her up, but her eyes were
 tightly closed, looked like she passed out. He busily massaged her
 acupoint to wake her up. "Xiao Zhao," he called out, "What happened to
-you?"\
-\
+you?"
+
 With tears on her eyes Xiao Zhao said, "I heard somebody is being burned
-alive, I ... I ... I'm very scared."\
-\
+alive, I ... I ... I'm very scared."
+
 "That was just Xie Laoye's guess," Zhang Wuji consoled her, "It might
 not be true. Besides, even if Mrs. Han has fallen into their hands, if
-we rush, we might still be able to catch up and save her."\
-\
+we rush, we might still be able to catch up and save her."
+
 Xiao Zhao grabbed his hand and earnestly said, "Gongzi, please, you have
-to save Mrs. Han's life."\
-\
+to save Mrs. Han's life."
+
 "All of us will do our best," Zhang Wuji replied. He went back to the
 stern, picked up the oar, and exerting his strength, he rowed even
-faster.\
-\
+faster.
+
 Xiao Zhao also picked up an oar, and although her hands were trembling,
-she also furiously paddled the boat.\
-\
+she also furiously paddled the boat.
+
 "Zhang Gongzi," suddenly Zhao Min said, "There are two things that I
 don't understand; I've been giving it a thought for a long time, but
-still cannot figure it out. I wonder if you could enlighten me."\
-\
+still cannot figure it out. I wonder if you could enlighten me."
+
 Hearing her suddenly being polite to him, Zhang Wuji felt strange. "What
-is it?" he asked.\
-\
+is it?" he asked.
+
 Zhao Min said, "That day outside the Green Willow Manor, I dispatched
 people to attack your grandfather, Yang Xiao, and the others; but this
 Miss Xiao Zhao had actually defended against the troops. I know that
 under a capable general there are no weak soldiers, but still, under the
 Ming Cult's Jiaozhu there is actually a little servant girl with this
-kind of ability, I found it really strange ... "\
-\
-"What Ming Cult's Jiaozhu?" Xie Xun interrupted.\
-\
+kind of ability, I found it really strange ... "
+
+"What Ming Cult's Jiaozhu?" Xie Xun interrupted.
+
 "Laoye Zi," Zhao Min laughed, "Let me tell you now: the young master,
 your foster child, is the Cult Leader of the Ming Cult. You are actually
-his subordinate."\
-\
+his subordinate."
+
 Xie Xun was half believing and half doubting; he was at a loss of words.
 Thereupon Zhao Min told him briefly how Zhang Wuji had taken over the
 Cult Leader position; but she did not know too much about the details.
 Xie Xun then asked Zhang Wuji directly, and he did not have any choice
 but telling him the truth, about his involvement when the Six Major
 Sects besieged the Brightness Peak, and how he found the 'Qian Kun Da
-Nuo Yi' manual inside the secret passage.\
-\
+Nuo Yi' manual inside the secret passage.
+
 In his utmost delight Xie Xun stood up, then knelt down on the small
 boat's deck; "Subordinate Jin Mao Shi Wang Xie Xun pays his respect to
-Jiaozhu," he said.\
-\
+Jiaozhu," he said.
+
 Zhang Wuji hastily also knelt down to return his respect. "Yifu," he
 said, "Please don't be overly courteous. Yang Jiaozhu had left an order
 for Yifu to take the interim Jiaozhu position. It is very hard for your
 child to bear this heavy responsibility. With the Heaven's blessing Yifu
 has returned, safe and sound; it is truly our Cult's good fortune. As
 soon as we reached the Central Earth, I am going to ask Yifu to take
-over the Jiaozhu position."\
-\
+over the Jiaozhu position."
+
 Xie Xun sadly said, "Your Yifu has returned, but his eyes are blind. So
 you cannot actually say 'safe and sound'. How can a blind man take the
 leadership of the Ming Cult? Miss Zhao, didn't you say you have two
-things you do not understand?"\
-\
+things you do not understand?"
+
 "I want to ask Miss Xiao Zhao," Zhao Min said, "Who taught you the 'qi
-men ba gua' \[strange/wonderful gate, eight trigrams\] and 'yin yang wu
-xing' \[yin and yang, five elements\] techniques? You are very young,
-how did you know all those extraordinary skills?"\
-\
+men ba gua' [strange/wonderful gate, eight trigrams] and 'yin yang wu
+xing' [yin and yang, five elements] techniques? You are very young,
+how did you know all those extraordinary skills?"
+
 Xiao Zhao replied, "They are my family heritage. It is not worth Junzhu
-Niang-niang's \[Princess\] attention."\
-\
+Niang-niang's [Princess] attention."
+
 "Who is your honorable father?" Zhao Min asked further, "The daughter is
-this good, your father and mother must be world famous masters."\
-\
+this good, your father and mother must be world famous masters."
+
 "My father has buried his name and lives in seclusion," Xiao Zhao
 replied, "Why did Junzhu bother to ask? Could it be that you are going
 to cut my fingers to force me to show you my martial art?" She was
 young, but surprisingly did not show the slightest degree of submission
 toward Zhao Min. By bringing up the finger cutting affair, it was
 obvious that she was trying to incite Zhou Zhiruo's anger; pulling her
-to her side to face a common enemy.\
-\
+to her side to face a common enemy.
+
 Zhao Min simply smiled; she turned her head toward Zhang Wuji and said,
 "Zhang Gongzi, that night we met at the small inn in Dadou for the
 second time, Ku Toutuo Fan Yao came to take his leave from me. When he
-saw Miss Xiao Zhao, he said two sentences; what were those?"\
-\
+saw Miss Xiao Zhao, he said two sentences; what were those?"
+
 Zhang Wuji had already forgotten this matter; now that she brought it
-up, he had to think for a moment before answering, "Ku Dashi \[Reverend
-Ku\] seemed to say that Xiao Zhao's appearance looks very much like
-someone he knew."\
-\
+up, he had to think for a moment before answering, "Ku Dashi [Reverend
+Ku] seemed to say that Xiao Zhao's appearance looks very much like
+someone he knew."
+
 "Correct!" Zhao Min said, "Can you guess to whom did Ku Dashi think Miss
-Xiao Zhao look like?"\
-\
-"How can I guess?" Zhang Wuji said.\
-\
+Xiao Zhao look like?"
+
+"How can I guess?" Zhang Wuji said.
+
 Throughout this discussion, the small boat was approaching the Ling She
 Island. They that saw a row of ships were moored on the west of the
 Island; there was a large red blazing fire painted on each one of their
 main sails, there was also a black ribbon hanging from each sail. Zhang
 Wuji wrinkled his eyebrows and said, "The Persian Central Cult
-dispatches their armada; the number of people coming in must be a lot."\
-\
+dispatches their armada; the number of people coming in must be a lot."
+
 Zhao Min said, "Let us take this boat to the back of the island and land
-on a secluded place. Don't let them see us yet."\
-\
-"Yes!" Zhang Wuji nodded his head.\
-\
+on a secluded place. Don't let them see us yet."
+
+"Yes!" Zhang Wuji nodded his head.
+
 He was only rowing for three, four 'zhang's when suddenly from one of
 the ships came a bugle sound, 'whoo, whoo ...' followed by 'bang, bang'
 two explosions, as two cannonballs were fired away. One fell to the left
 of the small boat, the other to its right side, creating two water
-columns. The small boat was shaken and nearly turned over.\
-\
+columns. The small boat was shaken and nearly turned over.
+
 Someone called out from the ship, "Quickly row the boat over here; if
-you don't obey, we are going to fire again."\
-\
+you don't obey, we are going to fire again."
+
 Zhang Wuji silently groaned, knowing that with these two salvos the
 enemy deliberately demonstrated their ability to shoot accurately; if
 they could hit two sides of the boat, then with the distance so close,
 they would easily hit the boat. Once the boat capsized, none of the six
 people onboard would survive. He had no choice but slowly row the boat
 toward the ship while the three cannons from the big ship slowly turned,
-following them around.\
-\
+following them around.
+
 When the small boat reached the ship, a rope ladder was let down. Zhang
-Wuji said, "Let us go up and try to seize the ship."\
-\
+Wuji said, "Let us go up and try to seize the ship."
+
 Xie Xun groped around for the ladder and he was the first to go up.
 Without saying anything Zhou Zhiruo stooped down to pick Yin Li up, and
 then climbed to the ship, followed Xiao Zhao. Carrying Zhao Min in his
-arm, Zhang Wuji was the last to go aboard the ship.\
-\
+arm, Zhang Wuji was the last to go aboard the ship.
+
 They saw the people on the ship were all blonde haired with blue eyes,
 their statures tall, they were Persian foreigners; but Liuyun Shi and
 the other two were actually not among them. One of them, who spoke
-Chinese, asked, "Who are you? What are you doing here?"\
-\
-Zhao Min replied, "We are shipwrecked; and are looking for help."\
-\
+Chinese, asked, "Who are you? What are you doing here?"
+
+Zhao Min replied, "We are shipwrecked; and are looking for help."
+
 That Persian was half believing and half doubting; he turned his head
 around and spoke several sentences in Persian toward someone sitting on
 a chair on the deck, who seemed to be their leader. That leader mumbled
 some instructions. Suddenly Xiao Zhao jumped and sent out a palm strike
 toward that leader. The leader was startled; he dodged sideways, grabbed
-the chair, and smashed it toward Xiao Zhao.\
-\
+the chair, and smashed it toward Xiao Zhao.
+
 Zhang Wuji was taken by surprise; not anticipating Xiao Zhao to make her
 move this soon. He moved three feet sideways and stretched out his
 fingers to strike the leader's acupoint. The several dozen Persian
 sailors aboard were immediately thrown into confusion; they unsheathed
 their weapons and surrounded them. Although these people knew martial
 art, their skills were far below those of the Cloud and Wind
-emissaries.\
-\
+emissaries.
+
 Supporting Yin Li with his right hand, Zhang Wuji's left hand struck to
 the east and slapped to the west. Xie Xun unsheathed his Tulong Saber;
 Zhou Zhiruo brandished her sword; together with Xiao Zhao whose
@@ -17549,20 +17549,20 @@ movements were quick, in a short period of time they struck down dozens
 of Persians. More than ten people fell down on the deck, either died or
 seriously injured by the blades; about seven, eight people fell down to
 the sea below, while the rest of them were immobilized because their
-acupoints were sealed.\
-\
+acupoints were sealed.
+
 Instantly the sea was full with people shouting and bugle sounding, as
 the other Persian ships moved to surround them, with the people on board
 ready to attack. Zhang Wuji picked up the leader and jumped to the
 ship's side. "Don't you dare come over, or I'll hack this man to his
-death," he shouted loud and clear.\
-\
+death," he shouted loud and clear.
+
 The people on the other ships shouted and yelled. Zhang Wuji did not
 understand what they were saying, but seeing that nobody jumped to their
 ship, he believed the man he captured must be someone in a high
 position, so that the enemy hesitated and did not dare to attack rashly.
-Zhang Wuji jumped back down to the deck.\
-\
+Zhang Wuji jumped back down to the deck.
+
 He barely laid that leader down when he suddenly heard a swishing noise
 from behind, as a weapon was coming down on his back. Quickly he evaded
 sideways and kicked back; only to feel that his foot had struck a Sheng
@@ -17570,58 +17570,58 @@ Huo Ling, while from the left another Sheng Huo Ling swept horizontally.
 Zhang Wuji groaned inwardly, resenting the fact that the Wind, Cloud,
 and Moon Emissaries have arrived this quickly. "Everybody, retreat back
 to the cabin," he shouted, while lifting up the leader in his hands to
-parry the Sheng Huo Ling.\
-\
+parry the Sheng Huo Ling.
+
 Huiyue Shi hastily pulled her attack back, but because of this abrupt
 movement, her lower body was exposed; Zhang Wuji swept with his leg and
 almost hit her calf. Liuyun Shi and Miaofeng Shi attacked together from
-the sides, forcing Zhang Wuji to withdraw his kick.\
-\
+the sides, forcing Zhang Wuji to withdraw his kick.
+
 Toward the ninth stance, the Sheng Huo Ling in Miaofeng Shi's left hand
 slamming down diagonally in a very weird move; looked like he was aiming
 Zhang Wuji's lower abdomen. Zhang Wuji lowered the Persian leader's
 body. Although Miaofeng Shi's stance was very strange, Zhang Wuji's
 reaction was extremely ingenious. 'Slap!' the Sheng Huo Ling squarely
-hit that Persian on his left cheek.\
-\
+hit that Persian on his left cheek.
+
 The Three Emissaries cried out in alarm simultaneously; their
 countenance changed and they leaped back at the same time. After talking
 in Persian among themselves, suddenly they bowed toward the Persian in
 Zhang Wuji's hand, with a very respectful expression; and then they
-retreated.\
-\
+retreated.
+
 Suddenly the bugle sounded again as one big ship slowly came near. On
 the bow of this ship were twelve embroidered golden banners, while
 underneath the banners twelve chairs were set covered in tiger skins.
 One of the chairs was empty, while the other eleven were occupied. That
-big ship stopped some distance away and dropped its anchor.\
-\
+big ship stopped some distance away and dropped its anchor.
+
 Zhao Min noticed that the empty chair was the sixth one; a thought came
 to her mind. "The man we captured is dressed similar to those eleven
 people on that ship; looks like among their twelve leaders, he ranks
-number six."\
-\
+number six."
+
 "Twelve big leaders?" Xie Xun asked, "Hmm, the Central Cult's twelve
-'bao shu wang' \[lit. kings of treasured/precious tree\] have come to
-the Central Earth. This is no small matter."\
-\
-"What are the twelve 'bao shu wang'?" Zhao Min asked.\
-\
+'bao shu wang' [lit. kings of treasured/precious tree] have come to
+the Central Earth. This is no small matter."
+
+"What are the twelve 'bao shu wang'?" Zhao Min asked.
+
 "Under the Jiaozhu of the Persian Central Cult," replied Xie Xun, "are
 the twelve grandmasters of the Scripture; they are called the Twelve
 Precious Tree Kings. Their position is similar to the Four Protector
 Kings of the Central Earth's Ming Cult. These twelve kings are: the
-first Dasheng \[great holiness\], the second 'zhi hui' \[wisdom or
-knowledge\], the third Changsheng' \[eternal victory\], the fourth
-Zhanghuo' \[palm of fire\], the fifth Qinxiu \[diligent cultivation\],
-the sixth Pingdeng \[equality\], the seventh Xinxin' \[faith\], the
-eighth Zhen'e \[suppressing evil\], the ninth Zhengzhi \[integrity\],
-the tenth Gongde' \[virtue\], the eleventh Qixin \[single mindedness\],
-the twelfth Juming \[entire brightness\]. However, these twelve Precious
+first Dasheng [great holiness], the second 'zhi hui' [wisdom or
+knowledge], the third Changsheng' [eternal victory], the fourth
+Zhanghuo' [palm of fire], the fifth Qinxiu [diligent cultivation],
+the sixth Pingdeng [equality], the seventh Xinxin' [faith], the
+eighth Zhen'e [suppressing evil], the ninth Zhengzhi [integrity],
+the tenth Gongde' [virtue], the eleventh Qixin [single mindedness],
+the twelfth Juming [entire brightness]. However, these twelve Precious
 Tree Kings are only experts in Scriptures and doctrines, great teachers
 of religious law; I heard they are not experts in martial art. This man
-is the sixth; so he must be the Pingdeng Bao Shu Wang."\
-\
+is the sixth; so he must be the Pingdeng Bao Shu Wang."
+
 Zhang Wuji sat down by the main mast, laying down the Pingdeng Wang on
 his knees. This man held a high position within the Persian Central
 Cult; hence, Zhang Wuji was thinking of using him a hostage to escape
@@ -17629,12 +17629,12 @@ later on, therefore, he must take a good care of him. Looking down,
 Zhang Wuji saw that man's left cheek was swollen very badly; fortunately
 it was not life-threatening. Thinking about the fierceness of Miaofeng
 Shi's strike, he felt strange; hastily he exerted his strength and felt
-some reaction from this man's internal energy.\
-\
+some reaction from this man's internal energy.
+
 Meanwhile Zhou Zhiruo and Xiao Zhao were cleaning up the deck; they
 moved the corpses to the rear cabin and laid down those who were still
-alive neatly in rows on the deck.\
-\
+alive neatly in rows on the deck.
+
 They saw that they were surrounded by more than ten Persian ships, with
 each ship's cannon aimed at their ship, while the deck next to the
 fender was full of Persian people; their blades flickered under the
@@ -17646,72 +17646,72 @@ people attacked together, he would be hard-pressed to defend himself
 even if he had three heads and six arms. He might be able to escape
 relying on his own martial art skill; but how about his companions?
 Moreover, Yin Li and Zhao Min were injured, making their situation more
-dangerous.\
-\
+dangerous.
+
 He heard a Persian speak in Chinese with a loud voice, "Jin Mao Shi
 Wang, listen! Our Twelve Precious Tree Kings of the Central Cult are
 here. You have committed a crime against the Central Cult, the Precious
 Tree Kings are being lenient and willing to pardon you. Quickly release
-the Cult member on your ship, we will allow you to sail away safely."\
-\
+the Cult member on your ship, we will allow you to sail away safely."
+
 Xie Xun laughed. "The Old Xie is not a three-year old child; do you
 think we don't know that your cannons will fire on us as soon as we
-released the hostages?" he said.\
-\
+released the hostages?" he said.
+
 That Persian was indignant. "If you don't release our people, do you
-think we cannot shoot you?"\
-\
+think we cannot shoot you?"
+
 Xie Xun hesitated for a moment before answering, "I have three
 conditions; if you agree, we will then respectfully send these Cult
-people ashore."\
-\
-"What condition?" that man asked.\
-\
+people ashore."
+
+"What condition?" that man asked.
+
 "First," Xie Xun replied, "From now on, the Central Cult and the Central
 Earth Ming Cult are to respect each other, no more interfering with each
-other's affairs."\
-\
-"Hmm, and the second?" that man said.\
-\
+other's affairs."
+
+"Hmm, and the second?" that man said.
+
 "Release Taj-kis," Xie Xun said, "Send her over to our boat. Pardon her
-for losing her chastity, and do not look for her again, ever."\
-\
+for losing her chastity, and do not look for her again, ever."
+
 "Not on your life," that man angrily said, "Taj-kis has violated a major
 law of the Central Cult; she must be burned alive as a punishment. What
 does that have to do with your Central Earth Ming Cult, anyway? What is
-the third condition?"\
-\
+the third condition?"
+
 "You have not agreed to the second one, why talk about the third one?"
-Xie Xun said.\
-\
+Xie Xun said.
+
 "All right!" that man replied, "Let's just say we agree to the second
 condition; then there is no problem in hearing the third one, isn't
-there?"\
+there?"
 "The third condition?" Xie Xun said, "That's the easiest one. Send a
 small boat to follow us. After we sail for fifty 'li's, and we are sure
 that you are not pursuing us, then we'll release the hostages to the
-small boat. You are free to pick them up."\
-\
-That man angrily shouted, "Hu shou jiu dao! Hu shou jiu dao!"\
-\
+small boat. You are free to pick them up."
+
+That man angrily shouted, "Hu shou jiu dao! Hu shou jiu dao!"
+
 Xie Xun and the others were puzzled, not understanding what he said.
 Zhao Min laughed and said, "This man learned how to speak Chinese, but
 he learned it sloppily. He must have thought one degree higher than
-'nonsense' must be 'absurd'." \[Translator's note: 'hu shuo ba dao'
+'nonsense' must be 'absurd'." [Translator's note: 'hu shuo ba dao'
 (????) means 'rubbish, nonsense', where the single character ? - 'ba'
 means 'eight'. The man increased the number eight to number nine, ? -
-'jiu'.\]\
-\
+'jiu'.]
+
 Xie Xun and Zhang Wuji thought they could not blame his logic; they
 could not help bursting into laughter even though they were currently
-under a dire circumstance.\
-\
+under a dire circumstance.
+
 As that man increased the 'degree of rubbishness' and Xie Xun and the
 others were laughing, the Precious Three King who was sitting at the end
 of the row, called Juming Bao Shu Wang, was angry. Letting out a loud
 whistle, he jumped toward the enemy's ship. The eleventh king, Qixin Bao
-Shu Wang, followed behind him.\
-\
+Shu Wang, followed behind him.
+
 Zhang Wuji stepped forward, his left palm struck toward Qixin Bao Shu
 Wang's chest. To his surprise, Qixin Wang did not parry, but stretching
 out his left hand to grab the top of Zhang Wuji's head. Zhang Wuji
@@ -17720,8 +17720,8 @@ would have thought that from the side Ju Ming Wang's both palms came
 charging in, blocking his palm, while at the same time Qixin Wang's
 fingers almost touched his skull. Zhang Wuji evaded by moving one step
 forward. He realized now that these two people's collaboration was as
-tight as one person with four arms and four legs.\
-\
+tight as one person with four arms and four legs.
+
 The three people had exchanged seven, eight stances in a flash. Zhang
 Wuji was inwardly worried; the collaborations of these two were somewhat
 inferior compared to the Wind and Cloud, three emissaries, but their
@@ -17736,40 +17736,40 @@ be a stance from the Qian Kun Da Nuo Yi, but before striking the target,
 they would suddenly act as if they were losing their minds and kicked
 and hit randomly, but surprisingly their attack was very difficult to
 block. Their collaboration was very tight, it wasn't any different from
-the Wind and Cloud Three Emissaries.\
-\
+the Wind and Cloud Three Emissaries.
+
 Zhang Wuji resisted with a lot of effort and only managed to fight them
 evenly; it was not until twenty, thirty stances later that he slowly
 started to gain an upper hand. It was at this moment that the Wind and
 Cloud, Three Emissaries, howled in one voice and jumped to their ship,
 toward the Pingdeng Wang, with the intention of snatching him back to
-redeem their guilt of striking him earlier.\
-\
+redeem their guilt of striking him earlier.
+
 Xie Xun heaved the Ping Deng Wang and brandished him around, making a
 large circle around him. This time, how could the Wind and Cloud, Three
 Emissaries, dare to act rashly? They hastened to the left and dodged to
-the right, while trying to find a hole to launch their attack.\
-\
+the right, while trying to find a hole to launch their attack.
+
 Suddenly Juming Wang grunted and tumbled down. Zhang Wuji reached down
 trying to grab him, but Liuyun Shi and Huiyue Shi's pair of tablets came
 to block, while Miaofeng Shi scooped Juming Wang to bring him back to
-their own ship.\
+their own ship.
 Qixin Wang and Cloud and Moon Emissaries were forced to face Zhang Wuji
 together; their coordination was not as when they were fighting with
 their own respective partners. After several more stances, they knew it
 was hard to score a victory. Three people successively let out a whistle
-and retreated to their ship.\
-\
+and retreated to their ship.
+
 After calming himself down, Zhang Wuji said, "These people definitely
 knew the Qian Kun Da Nuo Yi; but somehow their techniques are different,
-making it difficult for me to deal with."\
-\
+making it difficult for me to deal with."
+
 "Our Cult's Qian Kun Da Nuo Yi originated from Persia," Xie Xun said,
 "But after they passed it on to us several hundred years ago, they lost
 their own copy. So what they preserved, according to Taj-kis, was only
 some shallow and superficial knowledge. For that reason, they sent
-Taj-kis to the Brightness Peak to get the manual back."\
-\
+Taj-kis to the Brightness Peak to get the manual back."
+
 "Their martial art foundation really is superficial, so their knowledge
 is indeed only skin deep," Zhang Wuji said, "But the way they use it was
 truly ingenious. Obviously, they knew something significant that was the
@@ -17778,43 +17778,43 @@ seventh level of the Qian Kun Da Nuo Yi, there are some passages I have
 not mastered yet; could it be the key?" While saying that, he sat down
 on the deck with his head between his hands, thinking hard. Xie Xun and
 the others did not dare to make any noise, for fear they would disturb
-his train of thought.\
-\
+his train of thought.
+
 "Aiyo," suddenly Xiao Zhao called out in alarm. Zhang Wuji looked up
 only to see Wind and Cloud, Three Emissaries, was taking someone to the
 presence of the eleven Precious Tree Kings. That person was a hunchback,
-with a walking stick in her hand; she was none other than Jin Hua Popo.\
-\
+with a walking stick in her hand; she was none other than Jin Hua Popo.
+
 Zhihui Bao Shu Wang who was sitting on the second chair shouted her some
 questions. Jin Hua Popo leaned her head sideways and shouted back, "What
-are you talking about? I don't understand."\
-\
+are you talking about? I don't understand."
+
 Zhihui Wang sneered; he stood up and reached out with his left hand,
 pulling the entire white hair from Jin Hua Popo's head, exposing a clump
 of silky hair as black as crow. Jin Hua Popo turned her head sideways,
 trying to hide her face. But Zhihui Wang's right hand reached out
-suddenly to peel a layer of skin from her face.\
-\
+suddenly to peel a layer of skin from her face.
+
 Zhang Wuji and the others could see clearly that what Zhihui Wang peeled
 was a human skin mask. Instantly Jin Hua Popo turned into a very
 beautiful woman, with creamy white skin, almond shaped eyes, and cheeks
 like peach. Her countenance was glowing; her beauty was truly
-indescribable.\
-\
+indescribable.
+
 As Taj-kis' true appearance was exposed, she might as well throw away
 the walking stick, and she stood there smiling bitterly. Zhihui Wang
 asked her some questions again, and she replied in Persian. As those two
 people exchanged words, the countenances of the eleven Precious Tree
-Kings were getting more and more serious.\
-\
+Kings were getting more and more serious.
+
 "Miss Xiao Zhao," suddenly Zhao Min asked, "What are they talking
-about?"\
-\
+about?"
+
 With tears in her eyes Xiao Zhao said, "You are so smart, you knew
-everything; why didn't you prevent Xie Laoye Zi from talking?"\
-\
-Zhao Min was puzzled, "Prevent him from talking what?" she asked.\
-\
+everything; why didn't you prevent Xie Laoye Zi from talking?"
+
+Zhao Min was puzzled, "Prevent him from talking what?" she asked.
+
 Xiao Zhao replied, "Initially, they did not know who Jin Hua Popo was.
 Later on, they found out that she is the Zi Shan Long Wang; but they had
 never guessed that Zi Shan Long Wang is the Holy Maiden Taj-kis. Popo
@@ -17824,8 +17824,8 @@ his intention was good, he inadvertently revealed her secret to Zhihui
 Bao Shu Wang. Xie Laoyezi's eyes cannot see, of course he did not know
 that Jin Hua Popo's appearance was radically changed that nobody would
 recognize her. Miss Zhao, you can see everything clearly, could it be
-that you haven't thought about it?"\
-\
+that you haven't thought about it?"
+
 In reality, when listening to Xie Xun's story on the little boat, Zhao
 Min had early on guessed correctly that Jin Hua Popo was the Persian
 Ming Cult's Holy Maiden Taj-kis, but she had never guessed that in the
@@ -17834,54 +17834,54 @@ uncovered. She was about to open her mouth to retort back, but noticing
 that Xiao Zhao was speaking miserably, she vaguely guessed that Xiao
 Zhao must have had some unusual relationship with Jin Hua Popo. She did
 not have the heart to speak harshly and only said, "Xiao Zhao Meizi
-\[(younger) sister, term of endearment\], I certainly have not thought
+[(younger) sister, term of endearment], I certainly have not thought
 about it. If I had an ill-intention to harm Jin Hua Popo, let me die a
-horrible death."\
-\
+horrible death."
+
 Xie Xun was even more remorseful; he did not say anything. But he had
 made a decision in his heart that even if he had to lose his life, he
-would save Taj-kis from danger.\
-\
+would save Taj-kis from danger.
+
 Sobbing, Xiao Zhao said, "They blame Jin Hua Popo, saying that she got
 married and committed apostasy against the Cult, they ... they are going
-to burn her to death."\
-\
+to burn her to death."
+
 "Xiao Zhao," Zhang Wuji said, "Please don't worry, as soon as there is
 an opportunity, I am going to go over and save Jin Hua Popo." He was
 accustomed to call her 'Popo', but if he looked at Zi Shan Long Wang
 right now, even though she was middle-aged, but her gracefulness and
 beauty was not inferior to Zhao Min, Zhou Zhiruo, and the others; she
-even looked like Xiao Zhao's elder sister.\
-\
+even looked like Xiao Zhao's elder sister.
+
 "No, no," Xiao Zhao said, "You cannot fight Eleven Bao Shu Wang, plus
 the Wind and Cloud Three Emissaries; don't deliver your life in vain.
 Right now they are discussing how they are going to take the Pingdeng
-Wang back."\
-\
+Wang back."
+
 "Humph!" Zhao Min hatefully said, "Even if they take Pingdeng Wang back,
 his face has already imprinted with these lines of characters; he will
-look so ugly."\
-\
-"What imprinted characters?" Zhang Wuji asked.\
-\
+look so ugly."
+
+"What imprinted characters?" Zhang Wuji asked.
+
 "That yellow bearded emissary's Sheng Huo Ling struck his left cheek
 ..." Zhao Min said, "Ah, Xiao Zhao!" suddenly she remembered something.
-"Xiao Zhao Meizi," she asked, "Do you know Persian characters?"\
-\
-"I do," Xiao Zhao replied.\
-\
+"Xiao Zhao Meizi," she asked, "Do you know Persian characters?"
+
+"I do," Xiao Zhao replied.
+
 "Come here and look," Zhao Min said, "What is written on Pingdeng Wang's
-face?"\
-\
+face?"
+
 Xiao Zhao came near Pingdeng Wang and leaned over his head; she saw his
 left cheek was swollen badly and three lines of Persian characters were
 imprinted on it. Turned out each one of the Sheng Huo Ling was engraved
 with characters. Miaofeng Shi had accidentally struck Pingdeng Wang, and
 the characters on the Sheng Huo Ling were transferred to his flesh.
 Only, the part where Sheng Huo Ling met the flesh was no more than two
-'cun's wide and three 'cun's long \[1 cun is approximately 1 inch (2.5
-cm)\], so the inscription was incomplete.\
-\
+'cun's wide and three 'cun's long [1 cun is approximately 1 inch (2.5
+cm)], so the inscription was incomplete.
+
 Xiao Zhao had followed Zhang Wuji into the secret passage of the
 Brightness Peak, and had memorized the Qian Kun Da Nuo Yi manual;
 although Zhang Wuji had never forbidden her, she had never trained it,
@@ -17889,17 +17889,17 @@ but she knew the theory of this martial art by heart. When Zhang Wuji
 encountered a difficulty during training of the seventh level and he was
 forced to skip several lines, Xiao Zhao had memorized those lines well.
 Presently, looking at the characters on Pingdeng Wang's face, she could
-not help from blurting out, "This is Qian Kun Da Nuo Yi theory!"\
-\
-"Did you say Qian Kun Da Nuo Yi theory?" Zhang Wuji wondered.\
-\
+not help from blurting out, "This is Qian Kun Da Nuo Yi theory!"
+
+"Did you say Qian Kun Da Nuo Yi theory?" Zhang Wuji wondered.
+
 "No, it's not," Xiao Zhao said, "At first, I thought it was it, but it's
 not. Translated into Chinese, those lines mean: 'reacting to the left is
 actually to the front, to the right is actually to the rear; three
 voids, seven solids, something exists out of nothing ...' something,
 'the heaven square, the earth round ...' and the next line is
-unreadable."\
-\
+unreadable."
+
 Listening to these dozen or so characters, Zhang Wuji felt as if among
 the black clouds in the sky suddenly he saw a flash of lightning; but
 after the lightning passed, the sky was still dark. Nevertheless, this
@@ -17909,40 +17909,40 @@ to the left is actually to the front, to the right is actually to the
 rear ..." He tried hard to integrate these cryptic lines with the Qian
 Kun Da Nuo Yi theory he already mastered. Several times did he think he
 see the connection, each time it appeared right but actually was wrong;
-in the end everything was still dark to him.\
-\
+in the end everything was still dark to him.
+
 "Gongzi, watch out!" suddenly he heard Xiao Zhao calling out, "They are
 issuing an order: the Three Win and Cloud Emissaries are to attack you,
 Qinxiu Wang, Zhen'E Wang, and Gongde Wang, three kings are to take
-Pingdeng Wang back."\
-\
+Pingdeng Wang back."
+
 Xie Xun heaved the Pingdeng Wang and held him across his chest, while
 tossing the Tulong Dao to Zhang Wuji and said, "Just chop them up with
-this Saber."\
-\
+this Saber."
+
 Zhao Min also took the Yitian Sword and handed it over to Zhou Zhiruo.
 This time they were on the same boat sharing the same fate; fighting a
-common enemy together was more important than their differences.\
-\
+common enemy together was more important than their differences.
+
 Zhang Wuji took the Tulong Saber, and absentmindedly inserted the Saber
 to his waist, while his mouth was still mumbling, "Three voids, seven
-solids, something exists out of nothing ..."\
-\
+solids, something exists out of nothing ..."
+
 "Idiot!" Zhao Min anxiously said, "This is not the time to ponder some
-martial art theory; quickly prepare yourself to face the enemy."\
-\
+martial art theory; quickly prepare yourself to face the enemy."
+
 Before she finished speaking, Qinxiu, Zhen'E, and Gongde, three kings
 had already jumped over with their palms extended to attack Xie Xun.
 They were afraid to injure Pingdeng Wang, hence they did not dare to use
 weapons. They were hoping that by attacking with their palms and fists,
 they might have a chance of snatching him back as soon as one man
-managed to get hold of Pingdeng Wang's body.\
-\
+managed to get hold of Pingdeng Wang's body.
+
 Zhou Zhiruo was standing by next to Xie Xun; each time the situation was
 critical, she would hack down her sword to Pingdeng Wang; forcing Qinxiu
 Wang, Zhen'E Wang, and Gongde Wang, diverting their attack toward Zhou
-Zhiruo to prevent her sword from harming Pingdeng Wang.\
-\
+Zhiruo to prevent her sword from harming Pingdeng Wang.
+
 On the other battlefront, Zhang Wuji was fighting the Wind and Cloud
 Three Emissaries. These four people fought cautiously; each side had
 suffered some hard beating from their opponents, nobody dared to be
@@ -17950,8 +17950,8 @@ careless. After fighting for several stances, Huiyue Shi's tablet came
 down to strike; according to basic martial art principle, this move
 should strike Zhang Wuji's left shoulder. Who would have thought that
 the Sheng Huo Ling changed its course halfway; it made a very strange
-turn and 'slap!' it hit the back of Zhang Wuji's neck.\
-\
+turn and 'slap!' it hit the back of Zhang Wuji's neck.
+
 Zhang Wuji felt a burst of severe pain, but it was as if his mind was as
 bright as snow. "Reacting to the left is actually to the front, to the
 right is actually to the rear, that's right, that's right!" he shouted
@@ -17963,16 +17963,16 @@ stances. His mind was churning, and straightaway he understood the four
 lines of secret Xiao Zhao uttered earlier. Only he had not been able to
 penetrate the secret of 'the heaven square, the earth round' part. He
 thought he had to take a look at the inscription on the Sheng Huo Ling
-to thoroughly understand the essence of the Persian martial art.\
-\
+to thoroughly understand the essence of the Persian martial art.
+
 Suddenly he let out a clear whistle and his pair of hands, using the
 'three voids, seven solids', reached out to grab two Sheng Huo Ling from
 Huiyue Shi's hands; while with 'something exists out of nothing' he took
 away the two Sheng Huo Ling from Liuyun Shi's hands. While the two of
 them were still in shock, Zhang Wuji had put the four Sheng Huo Ling
 into his bosom, and then separately grabbed them by the back of their
-necks and threw them back into their ship.\
-\
+necks and threw them back into their ship.
+
 Amidst the shouting yelling of the Persians, Miaofeng Shi turned his
 body around trying to escape. By this time Zhang Wuji had understood
 clearly the basic principle of his opponents' martial art. His
@@ -17981,21 +17981,21 @@ martial art had lost its mystery in his eyes. Once his right hand
 reached out, he grabbed Miaofeng Shi's left foot and pulled him back
 from midair. With one hand on the Sheng Huo Ling in Miaofeng Shi's hand,
 Zhang Wuji lifted up Miaofeng Shi's body and smashed him toward the top
-of Zhen'E Wang's head with the other hand.\
-\
+of Zhen'E Wang's head with the other hand.
+
 The three kings were shocked; making hand signals to each other, they
 hurriedly leaped back to their ship. Zhang Wuji sealed Miaofeng Shi's
-acupoint and threw him down near his foot.\
-\
+acupoint and threw him down near his foot.
+
 This victory of his came so quickly that in a blink of an eye from being
 under-handed he suddenly gained an upper hand. Zhao Min and the others
-were no less surprised and they all asked him how he did it.\
-\
+were no less surprised and they all asked him how he did it.
+
 Zhang Wuji laughed and said, "We might still be in trouble if not of
 mistakes arising out of chance that Pingdeng Wang suffered this mishap.
 Xiao Zhao, translate the inscriptions on these six Sheng Huo Ling for
-me; quick, quick!"\
-\
+me; quick, quick!"
+
 They looked at the Sheng Huo Ling, and noticed that they were neither
 made of metal nor jade, but of very hard substance. The size of six of
 them varied, some were big, some were small, some were long and some
@@ -18007,23 +18007,23 @@ inscribed with a lot of Persian characters; to translate them would take
 a lot of time, not to mention Zhang Wuji would have to interpret their
 very profound meaning. But he realized that if he wanted them to survive
 this current situation, then he had to understand the essence of the
-Persian sect's martial art.\
-\
+Persian sect's martial art.
+
 "Miss Zhou," he said toward Zhou Zhiruo, "Please place your Yitian Sword
 on Pingdeng Wang's neck. Yifu, please place your Tulong Saber on
 Miaofeng Shi's neck. We have to buy as much time as possible." Xie Xun
-and Zhou Zhiruo nodded their compliance.\
-\
+and Zhou Zhiruo nodded their compliance.
+
 Xiao Zhao took the six Sheng Huo Ling, and picked the shortest one, an
 unremarkable blackish green tablet with the least characters inscribed
 on it, and she started translating it. Zhang Wuji listened attentively,
 but he did not understand even a single sentence. He pondered deeply but
 still could not make any sense of what he heard, and could not help but
-feeling very anxious.\
-\
+feeling very anxious.
+
 "Xiao Zhao Meizi," Zhao Min said, "Why don't you read the Sheng Huoling
-that struck Pingdeng Wang."\
-\
+that struck Pingdeng Wang."
+
 Her words had reminded Xiao Zhao; she busily checked the inscriptions on
 the other tablets, and found it to be the second longest. She translated
 it immediately, and this time Zhang Wuji could actually understand 70,
@@ -18031,10 +18031,10 @@ it immediately, and this time Zhang Wuji could actually understand 70,
 translated it. Zhang Wuji only heard several sentences when he happily
 said, "Xiao Zhao, these six Sheng Huo Ling, the longer ones contain the
 shallowest sentences. The one you just read was the rudimentary theory
-of their martial art."\
-\
+of their martial art."
+
 Actually, the six tablets of Sheng Huo Ling were cast by the Persian
-'Shan Zhong Lao Ren' \[the Old Man of the Mountain\], in which he
+'Shan Zhong Lao Ren' [the Old Man of the Mountain], in which he
 engraved the essence of his lifetime martial art achievement. These six
 Sheng Huo Ling entered the Central Earth at the same time as the
 Manichaeism, and they became the symbol of authority of the Cult Leader
@@ -18042,17 +18042,17 @@ of the Ming Cult. After a long time, nobody within the Ming Cult of the
 Central Earth understood Persian writing. Decades ago, the Sheng Huo
 Ling was stolen by the Beggar Clan. It went through many hands before
 finally acquired by a Persian merchant, and found its way to the Persian
-Ming Cult.\
-\
+Ming Cult.
+
 The Persian Central Cult diligently studied the writing for dozens of
 years, and as a result, the leaders of the Cult had enjoyed a tremendous
 advancement in their martial art skills. However, the martial art
 contained in these tablets were too broad and deep, so that even Dasheng
 Bao Shu Wang who was the first among the kings only managed to master
-30, 40% of the entire skill set.\
-\
+30, 40% of the entire skill set.
+
 As for the Qian Kun Da Nuo Yi manual, it was originally the Ming Cult's
-'hu jiao shen gong' \[divine skill to protect the cult\]; but due to its
+'hu jiao shen gong' [divine skill to protect the cult]; but due to its
 extraordinary features, it was not a skill an average person would be
 able to master. The Persian Ming Cult stipulated that its Cult Leader
 must be a virgin maiden, and for hundreds of years, the position was
@@ -18062,8 +18062,8 @@ Ming Cult still preserved the manual in its entirety. The Persian Ming
 Cult only mastered less than 10% of the original Qian Kun Da Nuo Yi. By
 combining it with the 20, 30% of the Sheng Huo Ling's martial art, they
 developed a set of strange stances, forming a brand new branch of
-martial art skill.\
-\
+martial art skill.
+
 Zhang Wuji sat cross-legged on the bow, while Xiao Zhao translated the
 inscriptions on the Sheng Huo Ling line by line. Actually, the martial
 art contained in these Sheng Huo Ling was very exquisite, but by
@@ -18076,14 +18076,14 @@ Wudang Pai's Taijiquan. Although the martial art of Sheng Huo Ling was
 strange, even greatly broad and profound, it was nothing more than
 another unorthodox sect's martial art, which had not attained the
 pinnacle of its perfection yet; after all, it was still far inferior to
-the aforementioned three martial art skills.\
-\
+the aforementioned three martial art skills.
+
 After Xiao Zhao finished translating the six Sheng Huo Ling, Zhang Wuji
 felt that he only remembered 70, 80% of it, and understood only 50, 60%;
 nevertheless, he was confident that he had understood thoroughly the
 martial art of the Precious Tree Kings and the Wind and Cloud Three
-Emissaries.\
-\
+Emissaries.
+
 Time slowly passed. Forgetting everything else, Zhang Wuji
 wholeheartedly pondered over the martial art he had just learned; but
 Zhao Min and Zhou Zhiruo, who observed the enemy's movement, were
@@ -18096,8 +18096,8 @@ drawn and the arrows were aimed at them. They saw around a dozen
 Persians with hatchets in their hands plung into the water, waiting for
 their chiefs' command to sink their ship. Suddenly they heard Dasheng
 Bao Shu Wang, who was sitting among the kings shout; from all the ships
-the drums thundered and the bugles sounded.\
-\
+the drums thundered and the bugles sounded.
+
 Zhang Wuji was startled; he raised his head and saw the eleven Precious
 Tree Kings, each one wearing glittering metal armor and holding weapon
 in their hands, were jumping toward his ship. Xie Xun and Zhou Zhiruo
@@ -18105,85 +18105,85 @@ held their Saber and Sword tight, placing them on Pingdeng Wang and
 Miaofeng Shi's necks. The eleven kings noticed this and as they jumped
 to the bow, they did not dare to press further. They formed a half moon
 formation and gazed intently, waiting for an opportunity to make their
-move.\
-\
+move.
+
 In Zhou Zhiruo and Zhao Min's eyes, these eleven kings looked so mean
-and ferocious, plus they were tall in stature; they were rather afraid.\
-\
+and ferocious, plus they were tall in stature; they were rather afraid.
+
 Zhihui Wang spoke in Chinese, "Thou better release my fellow Cult member
 quickly, we will spare thy lives. They people are like pigs or dogs in
 us eyes; why do thou need to place thy blades on they people's necks? If
 thou dare, go ahead and kill they people. There are thousands of people
 like them people in the Persian Holy Cult. What regret do we people have
-if thou kill one or two of they people?"\
-\
+if thou kill one or two of they people?"
+
 "Thou don't have to talk big to deceive we people," Zhao Min said, "We
 people know that they two people are the Pingdeng Bao Shu Wang and
 Miaofeng Shi. They people's positions in thy Ming Cult are quite high.
 Thou said that they people are just like pigs or dogs in thy eyes then
-thou have made a mistake, a big heap mistake!"\
-\
+thou have made a mistake, a big heap mistake!"
+
 That Zhihui Wang's Chinese was a 'textbook' Chinese, the terms they used
 for 'thou' and 'they people' were nondescript. Zhao Min had cleverly
 imitated his intonation and terminology. Although they were in a
 dangerous situation, Xie Xun and the others could not restrain from
-smiling.\
-\
+smiling.
+
 Zhihui Wang frowned and said, "In our people's Holy Cult, there are
 three hundred sixty Bao Shu Wang, Pingdeng Wang holds the three hundred
 and fifty-ninth position. We people have one thousand two hundreds
 emissaries, this Miaofeng Shi's martial art is just so-so, he is totally
 useless. Thou quickly kill they people then!" "Very good, very good!"
 Zhao Min said, "Friends with saber and sword in your hand, quickly kill
-these useless people!"\
-\
+these useless people!"
+
 "Accepting order!" Xie Xun said. Lifting up his Saber, he drew a deep
-breath and hacked down toward Pingdeng Wang's skull.\
-\
+breath and hacked down toward Pingdeng Wang's skull.
+
 Everybody shouted in alarm; but the Tulong Saber swept gently and
 swiftly less than half an inch pass Pingdeng Wang's head, cutting a
 clump of his hair, which was blown by the sea breeze, vanishing into the
 air. Xie Xun moved his arm, slicing to the left and to the right,
 seemingly cutting Pingdeng Wang's arms; but in the last moment he
-flicked his wrist slightly and cut Pingdeng Wang's sleeves instead.\
-\
+flicked his wrist slightly and cut Pingdeng Wang's sleeves instead.
+
 These three moves were executed fiercely, yet accurately. It was
 extremely difficult even for people with seeing eyes, let alone for a
-blind man.\
-\
+blind man.
+
 Narrowly missing death, Pingdeng Wang was so scared that he almost
 passed out several times. The other eleven Precious Tree kings and the
 Wind and Cloud three emissaries were dumbstruck; their mouths were wide
-open but their tongues were tied.\
-\
+open but their tongues were tied.
+
 "Now thou have seen the Central Earth Ming Cult's martial art," Zhao Min
 said, "This Jin Mao Shi Wang ranks three thousand five hundred and ninth
 in the Central Earth Ming Cult. If thou want to rely on numbers to
 achieve victory, then the Central Earth Ming Cult will come to Persia to
 seek revenge in the future. We will wipe out thy central altar, and thou
 will certainly not able to resist. I suggest thou make peace with we
-people."\
-\
+people."
+
 Zhihui Wang knew Zhao Min was bluffing, but he did not know how to
 answer her. Suddenly Dasheng Bao Shu Wang spoke. Xiao Zhao called out,
-"Zhang Gongzi, they are going to sink our ship."\
-\
+"Zhang Gongzi, they are going to sink our ship."
+
 Zhang Wuji's heart turned cold; he realized his side did not possess
 excellent water skill. Once the ship sunk, they would certainly be
 captured by the enemy. His shadow flashed and he had arrived in front of
-Dasheng Wang.\
-\
+Dasheng Wang.
+
 "What are thou doing?" Zhihui Wang shouted. From both sides Gongde Wang
 and Zhanghuo Wang, one was using a whip, the other a hammer, struck
-together.\
-\
+together.
+
 By this time Zhang Wuji had already understood Persian Sect's martial
 art; without even trying to evade, both of his hands reached out and
 grabbed the kings' throats. 'Clang!' Gongde Wang's iron whip and
 Zhanghuo Wang's octagonal hammer struck each other. Sparks flew
 everywhere. Zhang Wuji sealed both men's acupoints on their throats to
-immobilize them and dragged them away.\
-\
+immobilize them and dragged them away.
+
 In this confusion Zhang Wuji kicked his feet left and right; two kicks
 made the blades in Qixin Wang and Zhen'E Wang's hands flew away, two
 more kicks made Qinxiu Wang and Juming Wang flew into the water.
@@ -18191,20 +18191,20 @@ Suddenly he saw a tall and skinny Precious Tree King pounc on him with a
 pair of daggers in his hand, stabbing Zhang Wuji's chest. Zhang Quji's
 foot flew up and kicked his wrist. That man overlapped his hands and
 stabbed Zhang Wuji's lower abdomen. This change was so quick that Zhang
-Wuji was forced to hurriedly leap back to evade.\
-\
-Turned out this man was Changsheng \[eternal victory\] Wang, who
+Wuji was forced to hurriedly leap back to evade.
+
+Turned out this man was Changsheng [eternal victory] Wang, who
 possessed the highest martial art skill among the twelve kings of the
 Persian Central Cult. After sealing Gongde Wang and Zhanghuo Wang's
 acupoints, Zhang Wuji quickly threw them into the cabin, and then turned
-his body around to fight Changseng Wang's pair of daggers.\
-\
+his body around to fight Changseng Wang's pair of daggers.
+
 Although this man was numbered among the twelve kings, his martial art
 skill was strong, greatly different from the rest of the kings. Zhang
 Wuji attacked for three stances and defended for another three stances,
 he advanced three steps and retreated three steps. He inwardly praised,
-"A Persian with an excellent skill!"\
-\
+"A Persian with an excellent skill!"
+
 After gaining an understanding of the martial art theory from the Sheng
 Huo Ling, Zhang Wuji did not have time to practice. Now that he met a
 powerful enemy, he had to think and fight Changsheng Wang at the same
@@ -18213,118 +18213,118 @@ his profound internal energy and the ingenuity of his moves, thus he
 managed to fight evenly with a narrow margin. After the twentieth
 stance, he was getting more and more comfortable in utilizing the secret
 from the Sheng Huo Ling on top of the martial art from the Qian Kun Da
-Nuo Yi.\
-\
+Nuo Yi.
+
 Changseng Wang earned his title 'Eternal Victory' because in his entire
 life he had never met any worthy opponent. This time he felt like his
 hands and feet were bound by the enemy, which he had never experienced
-before; naturally he was astonished, but also scared.\
-\
+before; naturally he was astonished, but also scared.
+
 After thirty stances, Zhang Wuji made a step forward and suddenly sat on
 the deck, while grabbing Changsheng Wang's calves. This strange move was
 an extremely profound move recorded on the Sheng Huo Ling. Although
-Changseng Wang knew about it, he had never dared to use it.\
-\
+Changseng Wang knew about it, he had never dared to use it.
+
 As Zhang Wuji grabbed the enemy, his ten fingers moved and sealed the
-'zhong dou' \[central capital\] and 'zhu bin' \[building guest\]
+'zhong dou' [central capital] and 'zhu bin' [building guest]
 acupoints on Changseng Wang's calves, using the acupoint sealing
 technique of the Central Earth martial art. Changseng Wang felt the
 lower half of his body went numb and difficult to move; he heaved a deep
-sigh and let his hands caught by the enemy.\
-\
+sigh and let his hands caught by the enemy.
+
 Suddenly Zhang Wuji felt a fondness in his heart toward this man's
 ability. "Thy martial art skill is excellent, I want to save your
 reputation. Quickly return to your ship," he said, while releasing his
 captive. Changsheng Wang was grateful and ashamed at the same time, he
-leaped back to his ship.\
-\
+leaped back to his ship.
+
 Dasheng Wang saw Changsheng Wang's bitter defeat, also saw how Gongde
 Wang and Zhanghuo Wang fell into the enemy's hands, he realized that if
 the enemy's ship sank, Pingdeng Wang and the other three kings would
 also perish with them. He shouted his command, calling everyone to
-return to their ship.\
-\
+return to their ship.
+
 Zhao Min loudly called out, "Quickly release Taj-kis and agree to Jin
-Mao Shi Wang's three requests!"\
-\
+Mao Shi Wang's three requests!"
+
 The remaining kings quietly discussed their situation. Zhihui Wang said,
 "Complying with thy requests is not a big deal. But this young master's
 martial art is obviously our Persian Sect's skill, where did he learn it
-from? We demand an explanation."\
-\
+from? We demand an explanation."
+
 Stifling her laugh, Zhao Min maintained a solemn face and said, "Thou
 art naïve and lack of understanding, boastful and wishy-washy. This
 young master is our Cult Emissary's eighth disciple. His seven martial
 brothers will arrive soon. By that time, if the seven of them are upset,
-then it will be extremely awful for thou. Woe is thou ..."\
-\
+then it will be extremely awful for thou. Woe is thou ..."
+
 Although Zhuhui Wang was intelligent, Chinese language is difficult and
 profound; he only understood around 60, 70% from what Zhao Min said, but
 he was certain she was blowing her horn. He hesitated a moment before
-saying, "Very well! Send Taj-kis over to their ship."\
-\
+saying, "Very well! Send Taj-kis over to their ship."
+
 Two Persian cult members took Taj-kis to the bow of Zhang Wuji's ship.
 Zhou Zhiruo raised her sword. 'Ding, ding!' immediately the shackles on
 Taj-kis' hands and feet were cut off. Seeing the sharpness of the Sword,
 those two Persians were scared to death; they hastily leaped back to
-their ship.\
-\
+their ship.
+
 "Thou may set sail immediately, return to the Central Earth," Zhihui
-Wang said, "We will send a small boat to follow behind thy ship."\
-\
+Wang said, "We will send a small boat to follow behind thy ship."
+
 Zhang Wuji cupped his fists and said, "The Central Earth Ming Cult came
 from Persia, thou and us are like brothers. Today we had a
 misunderstanding. I respectfully wish thou do not keep this in thy mind.
 I invite you to visit the Brightness Peak in the future, we will drink
 wine and have a pleasant chat together. For the offenses of today,
-herewith Xiongdi \[brother\] apologize."\
-\
+herewith Xiongdi [brother] apologize."
+
 Zhihui Wang laughed out loud and said, "Thy martial art skill is
 excellent, you've won our utmost admiration. For those who learn some
 kind of skill, isn't it a delight to train it to perfection? A friend
 comes visit from afar, isn't it a delight to the host? Even if they are
-upset, shouldn't they be delighted?"\
-\
+upset, shouldn't they be delighted?"
+
 Zhang Wuji and the others were surprised to hear him quoting Kongzi
-\[Confucius\], showing that he was an educated man, he was able to
-respond accurately to Zhao Min's remarks earlier. They all laughed.\
-\
+[Confucius], showing that he was an educated man, he was able to
+respond accurately to Zhao Min's remarks earlier. They all laughed.
+
 Zhao Min said, "What you say is very good; you are truly a distinguished
 Persian, a true rarity! I wish you all a prosperous and long life,
 blessed with abundance and kept from calamities, free of sickness until
-the day you die."\
-\
+the day you die."
+
 Zhihui Wang understood the four character 'prosperous and long life'
-\[duo1 fu2 duo1 shou4\], so he believed the rest were also good wishes
-for him. He smiled and mumbled, "Many thanks, many thanks!"\
-\
+[duo1 fu2 duo1 shou4], so he believed the rest were also good wishes
+for him. He smiled and mumbled, "Many thanks, many thanks!"
+
 Zhang Wuji realized that although Zhao Min was speaking amiably, she
 could turn vicious and hurl some cunning and provocative speeches. Right
 now they were among tigers and wolves, the night was still young and the
 dreams many; hence the earlier they get out of danger the better.
 Immediately he pulled the anchor and turned the rudder, he hoisted the
-sail and slowly drove the ship away.\
-\
+sail and slowly drove the ship away.
+
 All around them the Persians aboard their ships watched how Zhang Wuji
 weigh the anchor and hoist the sail, a job for dozen of sailors, alone;
 a demonstration of an astonishing strength. They burst out in cheers.
 Someone tossed the mooring rope of a small boat, which Zhang Wuji caught
 and tied to the rear mast. The big ship towed the small boat, gradually
 they sailed away. There were two people on the small boat, a man and a
-woman; they were none other than Liuyun Shi and Huiyue Shi.\
-\
+woman; they were none other than Liuyun Shi and Huiyue Shi.
+
 Zhang Wuji manned the rudder and steered the ship westward, he saw that
 the Persian ships did not pursue. Quickly they sailed away for several
 'li's, until the ships by the Ling She Island looked no more than one
 inch big, yet they were still unmoving, so finally he felt relieved. He
 asked Xiao Zhao to handle the rudder, while he went into the cabin to
-check on Yin Li's condition.\
-\
+check on Yin Li's condition.
+
 Yin Li was still in a blurry condition, half-asleep and half-awake.
 Although she did not seem to improve, but her sickness did not get worse
 either. Zhang Wuji thought that in this big Persian ship, there must be
-some medicine around.\
-\
+some medicine around.
+
 Taj-kis was standing on the bow with her eyes gazed into the ocean. She
 heard Zhang Wuji walk on the deck, but she did not turn her head. Zhang
 Wuji saw her from behind, and had to admit that her figure looked
@@ -18334,98 +18334,98 @@ world's most beautiful woman in the past, it was certainly not an empty
 word. He imagined her standing by the bank of the Bi Shui Han Tan, with
 her purple gown as beautiful as a flower, her sword as brilliant as the
 snow; he wondered how many heroes and warriors's hearts had fallen
-because of her.\
-\
+because of her.
+
 Sailing until the evening, they had left Ling She Island approximately a
 hundred 'li's behind. Looking to the east they did not see a single sail
 on the surface of the ocean; obviously the Persian Central Cult did not
-dare to pursue them under their threat.\
-\
-"Yifu," Zhang Wuji said, "Can we release them now?"\
-\
+dare to pursue them under their threat.
+
+"Yifu," Zhang Wuji said, "Can we release them now?"
+
 "Very well!" Xie Xun replied, "Even if they want to pursue, they won't
-overtake us."\
-\
+overtake us."
+
 Zhang Wuji unsealed Pingdeng, Gongde, Zhanghuo, three kings, and
 Miaofeng Shi's acupoints, while apologizing to them repeatedly. He took
-them to the stern and helped them to leap into the small boat.\
+them to the stern and helped them to leap into the small boat.
 Miaofeng Shi said, "We are responsible for these six Sheng Huo Ling;
-losing them is not a small offense. Please return them to us."\
-\
+losing them is not a small offense. Please return them to us."
+
 Xie Xun said, "Sheng Huo Ling is the Central Earth Ming Cult's token of
 authority; today it returned to its rightful owner, how can we let you
-take it away?"\
-\
+take it away?"
+
 Miaofeng Shi talked incessantly, insistent that the tablets be returned
 to him. Zhang Wuji thought he must subdue Miaofeng Shi's heart today to
 avoid more trouble in the future. He said, "If we return these tablets
 to you, your ability is still too low. I am afraid you won't be able to
 defend them. Rather than letting some strangers snatch them away, don't
-you think it would be better if the Ming Cult has them?"\
-\
-"How can some strangers casually snatch them away?" Miaofeng Shi asked.\
-\
+you think it would be better if the Ming Cult has them?"
+
+"How can some strangers casually snatch them away?" Miaofeng Shi asked.
+
 "If you don't believe me, then let us try," Zhang Wuji said, handing
-over the six Sheng Huo Ling tablets to him.\
-\
+over the six Sheng Huo Ling tablets to him.
+
 Miaofeng Shi was delighted; he had barely uttered, "Many thanks!" when
 Zhang Wuji hooked with his left hand and pulled with his right, taking
-the six tablets back.\
-\
+the six tablets back.
+
 Miaofeng Shi was surprised and angrily said, "I was not even ready, that
-one did not count."\
-\
+one did not count."
+
 Zhang Wuji smiled, "All right, there is no harm in trying again," he
-said, handing the Sheng Huo Ling back to him.\
-\
+said, handing the Sheng Huo Ling back to him.
+
 Miaofeng Shi put the four tablets of Sheng Huo Ling into his bosom
 first, and then held the two tablets in his hands tightly. Seeing Zhang
 Wuji reached out to snatch, he moved the Sheng Huo Ling in his left hand
 to hit Zhang Wuji's wrist. Zhang Wuji flipped his wrist and grabbed
 Miaofeng Shi's right arm and pulled it up so that two Sheng Huo Ling
 struck each other. 'Clang' the noise shook their hearts. Zhang Wuji
-transmitted his abundance internal energy to Miaofeng Shi's arm.\
-\
+transmitted his abundance internal energy to Miaofeng Shi's arm.
+
 Both of Miaofeng Shi's arms were numb because of this attack, his whole
 body lost its strength as if he was paralyzed, so that the Sheng Huo
 Ling tablets in his hands fell onto the deck. Zhang Wuji took the four
-Sheng Huo Ling from his bosom first before taking the ones on the deck.\
-\
-"Well?" he said, "Do you want to try it again?"\
-\
+Sheng Huo Ling from his bosom first before taking the ones on the deck.
+
+"Well?" he said, "Do you want to try it again?"
+
 Miaofeng Shi's face was ashen. "You are not a human," he stammered, "You
 are the devil, you are the devil!" He took several steps backward and
 was about to jump into the small boat, but he staggered and tumbled
-down. Liuyun Shi leaped up to carry him down.\
-\
+down. Liuyun Shi leaped up to carry him down.
+
 The small boat raised its sail. Gongde Wang pulled the towing rope.
 'Snap!' the rope broke and the small boat was separated from the big
 ship. Zhang Wuji cupped his fists and said, "Please forgive us for the
-many offenses."\
-\
+many offenses."
+
 Gongde Wang and the others' eyes were full of hatred, they turned their
 heads around without answering. The big ship rode on the wind and sailed
 to the west, two boats were getting farther and farther away from each
-other.\
-\
+other.
+
 Suddenly Taj-kis cursed, "Bastard! How dare you?" She jumped into the
-water.\
-\
+water.
+
 Zhang Wuji was shocked and hastily turned the rudder. He saw blood
 bubbling up from the water, followed by another one some distant away.
-Altogether there were six bloody areas with bubbles up to the surface.\
-\
+Altogether there were six bloody areas with bubbles up to the surface.
+
 With a splash Taj-kis' head appeared from below the surface with a short
 dagger in between her teeth, her right hand was holding a Persian man's
-hair, which appeared above the water shortly.\
-\
+hair, which appeared above the water shortly.
+
 Zhang Wuji turned the rudder quickly to meet them, but the hull of that
 ship was too big; because of the strong wind, instead of turning around,
 the ship slowly made a big circle on the water. In the water, Zi Shan
 Long Wang was as agile as a fish; without taking too much time, she had
 reached the ship. Her left hand reached the anchor and with one pull she
-flew up, taking the Persian along with her, to the deck.\
-\
+flew up, taking the Persian along with her, to the deck.
+
 Everybody realized now, that the Persians had concealed this disastrous
 thought. They waited until Gongde Wang and the others safely moved to
 the small boat, then they raised the sail to cover up some people who
@@ -18436,8 +18436,8 @@ leaped into the sea, and managed to kill six of them while capturing one
 alive. She was about to interrogate this survivor when suddenly there
 was a loud explosion coming from the aft; followed by black smoke rising
 to the sky. The hull shook violently, as if it was hit by a cannon; the
-mast broke and the top part flew into the air.\
-\
+mast broke and the top part flew into the air.
+
 Zhang Wuji and the others felt a searing heat; hastily they ducked down.
 "What a wicked scheme!" Taj-kis called out. She rushed to the mast and
 saw a big hole on the aft, while the rudder disappeared without any
@@ -18445,15 +18445,15 @@ trace. Water rushed in from the hole. Taj-kis asked several questions in
 Persian to the man she captured, and then her palm struck down toward
 his skull, smashing his head altogether. She kicked his body to the
 ocean while saying, "I only knew they were trying to make some holes on
-the ship; I did not think they planted explosive on the aft."\
-\
+the ship; I did not think they planted explosive on the aft."
+
 By this time Gongde Wang and the others had sailed quite some distance
 away on their small boat; although Taj-kis' water skill was excellent,
 there was no way she could overtake them. Everybody looked at each other
 in blank dismay, not knowing what to do. Zhao Min gave Zhang Wuji a
 sorrowful look while thinking in her heart, "The enemy ships will be
-over very soon; all of us will certainly die without any burial place."\
-\
+over very soon; all of us will certainly die without any burial place."
+
 The ship was really big, so that it would not sink too quickly. Amidst
 that commotion, suddenly Taj-kis spoke to Xiao Zhao in Persians, to
 which Xiao Zhao also replied in Persian. Two people spoke back and
@@ -18466,12 +18466,12 @@ shaking her head without saying anything. Finally, she suddenly looked
 toward Zhang Wuji, heaved a deep sigh, and said two sentences. Taj-kis
 stretched out her arms to embrace her and kept kissing her, tears
 streaming down from their eyes. Xiao Zhao was sobbing, while Taj-kis
-comforting her in gentle voice.\
-\
+comforting her in gentle voice.
+
 Zhang Wuji, Zhao Min and Zhou Zhiruo looked at each other in
 bewilderment, not knowing what was happening. Zhao Min whispered in
-Zhang Wuji's ears, "Look, their faces look alike!"\
-\
+Zhang Wuji's ears, "Look, their faces look alike!"
+
 Zhang Wuji's heart was stirred, he noticed Taj-kis and Xiao Zhao both
 had delicate and elegant melon-seed-shaped faces, high nose and
 snow-white complexion, graceful like rippling waves of autumn. Their
@@ -18481,7 +18481,7 @@ than a Central Earth woman. Zhang Wuji recalled at the little wineshop
 in Dadou, when Ku Toutuo Fan Yao saw Xiao Zhao, he said, 'Looks alike,
 looks alike!' Turned out what he meant by 'look alike' was that Xiao
 Zhao looked very much like Zi Shan Long Wang. Was Xiao Zhao Taj-kis'
-younger sister, then? Or was she her daughter?\
+younger sister, then? Or was she her daughter?
 Zhang Wuji also remembered how Yang Xiao and Yang Buhui, father and
 daughter, had always been suspicious toward Xiao Zhao. Whenever he asked
 Yang Xiao why he seemed wary toward a young girl like Xiao Zhao, Yang
@@ -18492,8 +18492,8 @@ only he did not have any other evidence. Besides, Zhang Wuji was
 protective toward her, thus it was inconvenient for Yang Xiao to accuse
 her blatantly. Now it also became clear to him why Xiao Zhao
 deliberately twisted her mouth and made her nose crooked, painstakingly
-pretended to be an ugly girl.\
-\
+pretended to be an ugly girl.
+
 Suddenly he recalled another matter, "Why did Xiao Zhao roam around the
 Brightness Peak? How did she know the entrance to the secret passage? I
 am sure it was Zi Shan Long Wang who ordered her to go there; obviously
@@ -18506,8 +18506,8 @@ expected that she is a shrewd schemer. These past two years were like a
 dream to me, I was constantly under her mercy without even realizing it.
 Zhang Wuji, oh, Zhang Wuji, in all your life you always believe others
 too easily, that was very stupid! Indeed, even a little girl like her
-was able to play with me on her palm."\
-\
+was able to play with me on her palm."
+
 Thinking to this point, he could not help but feel angry. Right at that
 moment, Xiao Zhao's eyes met with his. Zhang Wuji saw that her gaze was
 tender with unbounded passion, without any hint of pretense in it. His
@@ -18517,86 +18517,86 @@ regard of her own safety, how during these two years she had ironed his
 clothes and taken good care of his daily needs. Could those actions be
 faked? Or could it be that he had accused her unjustly? While he was
 busy with his thoughts, the ship shook again and sank down quite a bit
-more.\
-\
+more.
+
 "Zhang Jiaozhu," Taj-kis said, "All of you do not need to panic. When
 the Persian ships arrive, Xiao Zhao and I will deal with them. Zi Shan
 Long Wang is only a woman, but she knows how to be responsible of her
 own actions; in no way she would implicate others. Zhang Jiaozhu and Xie
 San Ge have shown kindness as heavy as a mountain to me; Taj-kis
 herewith expresses her gratitude to you." While saying that, she
-gracefully bowed to the ground.\
-\
+gracefully bowed to the ground.
+
 Zhang Wuji and Xie Xun hastily returned her respects; each of them
 thinking, "These Persians are evil and cruel; they are going to capture
-you and burn you to death, and will certainly not let us go."\
-\
+you and burn you to death, and will certainly not let us go."
+
 The ship gradually sank down; the water had reached the cabin. Zhang
 Wuji carried Yin Li, and Zhou Zhiruo carried Zhao Min, they all climbed
 up the mast. Suddenly Xiao Zhao pointed her finger to the east and broke
 into crying again. Everybody turned their eyes to follow her finger, and
 saw in the distant some sails on the surface of the ocean. Before long,
 the sails grew bigger and bigger; they were indeed a dozen or so big
-Persian ships coming to pursue them.\
-\
+Persian ships coming to pursue them.
+
 Zhang Wuji thought, "If I were Taj-kis, I'd rather jump into the ocean
 and die rather than suffering the pain of being burned alive." But when
 he looked at her, her expression was calm, she hardly showed any anxiety
 or fear; he had to admit his admiration, "She was the chief of the Si Da
-Fa Wang \[Four Great Judge -- see my notes earlier on 'hu jiao fa
-wang'\]; she is truly an extraordinary lady. To think that in the past,
-Yi Wang, Shi Wang and Fu Wang \[eagle, lion and bat kings\] have already
+Fa Wang [Four Great Judge -- see my notes earlier on 'hu jiao fa
+wang']; she is truly an extraordinary lady. To think that in the past,
+Yi Wang, Shi Wang and Fu Wang [eagle, lion and bat kings] have already
 achieved fame as senior heroes, while she was just a teenage girl; for
 her to be ranked above the three kings, it could not be just because of
 one time merit she rendered. She must have had some other quality, which
-surpassed other people."\
-\
+surpassed other people."
+
 Seeing the Persian ships gradually come near, he thought, "My offense
-toward the Bao Shu Wang \[Precious Tree Kings\] is not small, if I fall
+toward the Bao Shu Wang [Precious Tree Kings] is not small, if I fall
 into their hands, I might as well forget about escaping alive. Only I
 have to find a way to save Yifu, Miss Zhao, Miss Zhou, and cousin. Xiao
 Zhao, oh, Xiao Zhao, you can betray me, but I cannot treat you
-unkindly."\
-\
+unkindly."
+
 By now, a dozen or so Persian ships were within sight; he could see that
 the cannons on those ships were aimed at the sunken ship's mast. The
 ships stopped within twenty some 'zhang's from the sunken ship, and they
 rolled the sail and dropped the anchor right away. He heard Zhihui Wang
 laugh heartily. He looked very smug when he called out, "Do thou
-surrender now?"\
-\
+surrender now?"
+
 In a loud and clear voice Zhang Wuji replied, "The warriors of the
 Central Earth would rather die unyielding; how can we surrender? True
 warriors would contend with martial arts to decide who's strong and
-who's weak."\
-\
+who's weak."
+
 Zhihui Wang laughed; "True warriors battle with wits and not with brute
-force. Hurry up, extend your hands to be bound!"\
-\
+force. Hurry up, extend your hands to be bound!"
+
 Taj-kis suddenly spoke several sentences in Persian; her demeanor was
 stern. Zhi Hui Wang was stunned; he also replied in Persian. Two people
 asking and answering for a while; Dasheng Wang also joined the
 conversation. After several more exchanges, the big ship released a
-small boat with eight sailors rowing it, coming near the sunken ship.\
-\
+small boat with eight sailors rowing it, coming near the sunken ship.
+
 "Zhang Jiaozhu," Taj-kis said, "Xiao Zhao and I will go over there
-first, please wait for us here for a moment."\
-\
+first, please wait for us here for a moment."
+
 "Mrs. Han," in a stern voice Xie Xun said, "The Central Earth Ming
 Cult's treatment to you was not bad. Our Cult's safety and danger, its
 prosperity or fall, is on Wuji's shoulder alone. If you betray us, the
 Old Xie won't show any compassion. If you harm a single strand of Wuji's
-hair, even becoming a ghost the Old Xie will not spare you."\
-\
+hair, even becoming a ghost the Old Xie will not spare you."
+
 With a cold laugh Taj-kis said, "If your foster child is so precious, do
 you think my daughter is merely dirt?" While saying that she took Xiao
 Zhao's hand and lightly jumped into the small boat. The eight sailors
 immediately rowed; the small boat sailed as if it was flying toward the
-big ship.\
-\
+big ship.
+
 Listening to her words, everybody was startled. "Xiao Zhao is indeed her
-daughter," Zhao Min said.\
-\
+daughter," Zhao Min said.
+
 From a distance they saw Taj-kis and Xiao Zhao board the ship and talk
 with the Precious Tree Kings; while their own ship was sinking. The mast
 went into the water inch by inch. Xie Xun sighed and said, "Different
@@ -18608,26 +18608,26 @@ shoulders, millions of common people of the Central Plains place their
 hopes in our Ming Cult to lift the banner of righteousness high and to
 repel the Tartars. When the opportunity comes, you'll have to escape,
 you cannot think others. You are the leader of a great Cult, you must be
-able to distinguish the important from the trivial."\
-\
+able to distinguish the important from the trivial."
+
 Zhang Wuji hesitated without answering. "Pei!" Zhao Min spat and said,
 "It is still questionable whether you will stay alive, yet you worry
 about Tartars. Tell me, which one is better, the Mongolians or the
-Persians?"\
-\
+Persians?"
+
 Zhou Zhiruo had always been silent, but now suddenly she opened her
-mouth, "Xiao Zhao loves Zhang Gongzi very much, she won't betray him."\
-\
+mouth, "Xiao Zhao loves Zhang Gongzi very much, she won't betray him."
+
 "Didn't you see Zi Shan Long Wang coercing her?" Zhao Min said, "Xiao
 Zhao was not willing, but later the pressure was getting unbearable that
-in the end she relented, but still pretended to cry loudly."\
-\
-By this time, the mast was only about a 'zhang' \[about 10 feet or 3
-meters\] away from the water, the waves splashed and made everybody's
+in the end she relented, but still pretended to cry loudly."
+
+By this time, the mast was only about a 'zhang' [about 10 feet or 3
+meters] away from the water, the waves splashed and made everybody's
 face wet. Zhao Min suddenly laughed and said, "Zhang Gongzi, it is so
 neat that we are going to die together. That traitor Xiao Zhao, on the
-contrary, cannot die with us."\
-\
+contrary, cannot die with us."
+
 These words were spoken jokingly, but the meaning was deep. Zhang Wuji
 was really touched; he said in his heart, "I cannot take them all as my
 wives, but if I can die together with them, then my life is not in
@@ -18636,89 +18636,89 @@ looked at Yin Li in his embrace. Yin Li was still unconscious, while
 Zhao and Zhou two girls were blushing, with drops of water on their
 faces. They looked as beautiful as fresh flowers; if the Zhao girl could
 be likened to a rose, then the Zhou girl was an orchid. His heart was
-filled with warm and fuzzy feelings.\
-\
+filled with warm and fuzzy feelings.
+
 Suddenly, the Persians on a dozen or so ships shouted together. Zhang
 Wuji and the others were startled; they focused their eyes to look. They
 saw the people on each ship were kneeling down on the decks; they were
 bowing toward the big ship. On the big ship, all the Precious Tree Kings
 were also bowing toward someone sitting on a chair, whose features
 looked like Xiao Zhao's. Only the distance was too far that they were
-not able to see clearly.\
-\
+not able to see clearly.
+
 Zhang Wuji and the others were alarmed and unsure of what trick these
 Persians were about to do. After shouting for a while, the Persians
 stood up, but the sound of shouting did not stop; however, the shout was
 obviously a shout of joy, as if they were happily celebrating something.
 A moment later, the small boat returned with Xiao Zhao on board, sitting
-majestically.\
-\
+majestically.
+
 "Zhang Gongzi, everybody," she waved, "Let us go to the big ship. The
-Persian Ming Cult will not dare to harm you."\
-\
-"Why?" Zhao Min asked.\
-\
+Persian Ming Cult will not dare to harm you."
+
+"Why?" Zhao Min asked.
+
 "You will find out later," Xiao Zhao replied, "How could Xiao Zhao
-answer Zhang Gongzi if they still have ill intention toward you?"\
-\
+answer Zhang Gongzi if they still have ill intention toward you?"
+
 "Xiao Zhao," suddenly Xie Xun asked, "Did you become the Persian Ming
-Cult's Jiaozhu?"\
-\
+Cult's Jiaozhu?"
+
 Xiao Zhao lowered her head without answering, but a moment later two
 drops of crystal-clear tears suddenly hang from her eyes. All of a
 sudden Zhang Wuji's ears buzzed, because he had guessed with 70, 80%
 certainty what was happening; his heart was grieved but also full of
-gratitude.\
-\
+gratitude.
+
 "Xiao Zhao," he said, "You did this because of me!" Xiao Zhao turned her
-head to the side, she did not dare to meet his eyes.\
-\
+head to the side, she did not dare to meet his eyes.
+
 Xie Xun sighed and said, "To have a daughter like you, Taj-kis is truly
 worthy to bear the illustrious name of Zi Shan Long Wang. Wuji, let's
-go."\
-\
+go."
+
 He was the first to jump into the small boat, followed by Zhou Zhiruo
 carrying Yin Li and Zhang Wuji with Zhao Min in his arms. The eight
-sailors immediately rowed the boat toward the big ship.\
-\
+sailors immediately rowed the boat toward the big ship.
+
 When they were still more than ten 'zhang's away from the big ship, the
-Precious Tree Kings had already bowed to welcome their Cult Leader.\
-\
+Precious Tree Kings had already bowed to welcome their Cult Leader.
+
 As they came aboard the big ship, Xiao Zhao gave her orders and
 immediately several people respectfully presented them with towels and
-food, and they were led to a cabin to change their wet clothes.\
-\
+food, and they were led to a cabin to change their wet clothes.
+
 Zhang Wuji saw his cabin was very spacious. The room was illuminated by
 pearl and jewels; and it was furnished with countless precious objects.
 He was just about to dry his body with a towel when suddenly with a
 creaking noise the door was opened and somebody came in. It was Xiao
 Zhao, with a set of short shirt and pants, and a long robe in her
-hands.\
-\
-"Gongzi," she said, "Let me help you change your clothes."\
-\
+hands.
+
+"Gongzi," she said, "Let me help you change your clothes."
+
 Zhang Wuji's heart ached. "Xiao Zhao," he said, "You are the Central
 Cult's Jiaozhu. Technically, I am your subordinate. How can you do this
-anymore?"\
-\
+anymore?"
+
 "Gongzi," Xiao Zhao begged him, "This is for the last time. Hereafter,
 we will be separated by tens of thousands 'li's from east to west. Our
 time is limited. After this time, even if I want to serve you, I
-cannot."\
-\
+cannot."
+
 Zhang Wuji was heartbroken; he had no choice but to let her help him
 change his clothes, button his shirt, and tie his belt, just like she
 used to do. She also took a comb and combed his hair, all the while
 tears were streaming down her cheeks. Zhang Wuji could not restrain
 himself much longer; he turned around and hugged her petite stature in
-his bosom.\
-\
-"Ah," Xiao Zhao exclaimed softly, her body trembled slightly.\
-\
+his bosom.
+
+"Ah," Xiao Zhao exclaimed softly, her body trembled slightly.
+
 Zhang Wuji planted a deep kiss on her cherry lips. "Xiao Zhao," he said,
 "At first I thought you were betraying me; I had never expected you to
-treat me this good."\
-\
+treat me this good."
+
 Xiao Zhao leaned her head on his broad chest. She whispered, "Gongzi, I
 did lie to you. My Mama was one of the Central Cult's three Holy
 Maidens. She received an order to come to the Central Earth to set up a
@@ -18733,19 +18733,19 @@ from you, but in my heart, I have never had any ill intention towards
 you. I would rather be your servant, serving you for the rest of my
 life, and never leave you, than being the Jiaozhu of the Persian Ming
 Cult. I have told you that haven't I? And you have promised you would
-let me do that, haven't you?"\
-\
+let me do that, haven't you?"
+
 Zhang Wuji nodded; he held her gentle body and sat her on his knees, and
 he kissed her again and again. Her warm and soft lips were wet with
-tears; they tasted sweet as honey, yet also bitter from pain.\
-\
+tears; they tasted sweet as honey, yet also bitter from pain.
+
 Xiao Zhao continued, "I have memorized the Qian Kun Da Nuo Yi manual,
 but that was not because I wanted to betray you. I would never have
 divulged this information if the mountains were not exhausted and the
-rivers used up ..."\
-\
-"I know," Zhang Wuji softly said, "I understand everything now."\
-\
+rivers used up ..."
+
+"I know," Zhang Wuji softly said, "I understand everything now."
+
 As if she was talking to herself, Xiao Zhao said in a soft voice, "When
 I was little, I often saw Mama was restless and frightened, day and
 night. She covered up her fine appearance by pretending to be an old and
@@ -18754,53 +18754,53 @@ family raise me up, and would only see me every one or two years. Only
 now do I understand that she braved this great danger just to be married
 with my Father. Gongzi, if not for the situation we were in today, I
 would not be willing to be the empress of this whole world, let alone be
-a cult leader."\
-\
+a cult leader."
+
 Speaking to this point, her cheeks were fiery red. Zhang Wuji felt the
 tender body in his embrace go warmer; his heart was moved, but suddenly
 Taj-kis' voice was heard from outside the door, "Xiao Zhao, if you
-cannot restrain your passion, you are endangering Zhang Gongzi's life."\
-\
+cannot restrain your passion, you are endangering Zhang Gongzi's life."
+
 Xiao Zhao trembled and jumped up. "Gongzi," she said, "You should forget
-me. Miss Yin has followed Mother \[here the original word was 'mu qin',
-a formal term for 'mother', while before, she used the term 'Mama'\] for
+me. Miss Yin has followed Mother [here the original word was 'mu qin',
+a formal term for 'mother', while before, she used the term 'Mama'] for
 many years, she is also passionately devoted to you; she will be a good
-match to you."\
-\
+match to you."
+
 In a low voice Zhang Wuji said, "We'll break out and kill, capture one
-or two Bao Shu Wang, and force them to take us to the Ling She Island."\
-\
+or two Bao Shu Wang, and force them to take us to the Ling She Island."
+
 Xiao Zhao sadly shook her head, "This time they are ready; at this very
 moment, there are Persians with unsheathed blades standing by Xie Daxia,
 Miss Yin and the others. As soon as we make our move, they will be
 killed immediately." While saying that she opened the cabin door. They
 saw Taj-kis was standing by the door, with two Persians wielding swords
 standing behind her. Those two Persians bowed toward Xiao Zhao, but
-their swords did not leave Taj-kis' back.\
-\
+their swords did not leave Taj-kis' back.
+
 Fearlessly Xiao Zhao walked up the deck, with Zhang Wuji following
 behind her. They saw Xie Xun and the others, each one with Persian
-warrior by their side, wielding a naked blade.\
-\
+warrior by their side, wielding a naked blade.
+
 "Gongzi," Xiao Zhao said, "Here is some Persian medicine, effective to
 treat wounds; please apply it to Miss Yin." She then spoke several
 sentences in Persian. Gongde Wang took a bottle of medicine and handed
-it over to Zhang Wuji.\
-\
+it over to Zhang Wuji.
+
 "I have ordered some people to take you back to the Central Earth; we'll
 part here," Xiao Zhao continued, "Xiao Zhao's body will be in Persia,
 but every day my prayer is that Gongzi will have happiness, good health,
 and peace; and that everything you do will be successful." Speaking to
-this point she choked and started crying.\
-\
+this point she choked and started crying.
+
 "You will be living among the tigers and the wolves," Zhang Wuji said,
 "Please be careful." Xiao Zhao nodded and ordered her people to prepare
-a ship.\
-\
+a ship.
+
 Xie Xun, Yin Li, Zhao Min and Zhou Zhiruo boarded the ship one by one.
 Xiao Zhao returned the Tulong Saber and Yitian Sword to Zhang Wuji. With
-a bitter smile she raised her hand to bid them farewell.\
-\
+a bitter smile she raised her hand to bid them farewell.
+
 Zhang Wuji did not know what to say; he stared blankly at her for a
 moment before finally he leaped into the ship. The big ship Xiao Zhao
 was riding sounded its horn. Both ships set sail at the same time, the
@@ -18808,8 +18808,8 @@ distance between them gradually increased. Xiao Zhao was standing on the
 bow, her eyes fixed on Zhang Wuji's ship. Two people looked at each
 other while the sea between them got wider and wider. Finally, Xiao
 Zhao's ship was only a black dot on the dark blue sea. The strong wind
-from afar blew on the sail, faintly carrying the sound of soft crying.\
-\
+from afar blew on the sail, faintly carrying the sound of soft crying.
+
 [End of Chapter 30. ]
 
 

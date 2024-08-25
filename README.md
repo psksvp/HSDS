@@ -4,7 +4,7 @@ The Heaven Sword and Dragon Saber 倚天屠龍記 is a wuxia novel by Jin Yong (
 
 # Disclaimer
 
-This work is an unofficial fan translation of Jin Yong’s Yi Tian Tu Long Ji which appears on http://www.spcnet.tv/forums. The name of the translators appears on each chapter. All the credits go to them. The contents must not be sold for monetary return.
+This work is an unofficial fan translation of Jin Yong’s Yi Tian Tu Long Ji which appears on http://www.spcnet.tv/forums. The name of the translators appears on each chapter. All the credits goes to them. The contents must not be sold for monetary return.
 
 
 The epub is produced by a great free software [Pandoc](https://pandoc.org/)

@@ -25,7 +25,7 @@ Translated by Athena
 > A cold steep is enough to melt the moon.
 > A dark silver fog illuminates heaven and
 > earth.
-> 
+
 > Her simple, natural but enchanting appearances mesmerizes
 > me.
 > Even greater were her will and spirit.
