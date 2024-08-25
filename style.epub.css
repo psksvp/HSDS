@@ -1,0 +1,165 @@
+/* This defines styles and classes used in the book */
+
+
+/*@font-face
+{
+   font-family: Academy Engraved LET;
+   src:url("./fonts/Academy Engraved LET Fonts.ttf");
+}
+
+@font-face 
+{
+  font-family: DejaVuSans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: medium;
+  src:url("./fonts/DejaVuSans.ttf");
+}
+@font-face 
+{
+  font-family: DejaVuSans;
+  font-style: normal;
+  font-weight: bold;
+  src:url("./fonts/DejaVuSans-Bold.ttf");
+}
+@font-face 
+{
+  font-family: DejaVuSans;
+  font-style: italic;
+  font-weight: normal;
+  src:url("./fonts/DejaVuSans-Oblique.ttf");
+}
+@font-face 
+{
+  font-family: DejaVuSans;
+  font-style: italic;
+  font-weight: bold;
+  src:url("./fonts/DejaVuSans-BoldOblique.ttf");
+}*/
+
+body 
+{ 
+  margin: 10%; 
+  text-align: justify;
+  font-size: 12pt;
+  font-family: DejaVuSans;
+}
+
+p
+{
+  text-align-last: left;
+}
+ 
+
+code { font-family: monospace; }
+h1 
+{ 
+  text-align: center;
+  font-family: Academy Engraved LET;
+  font-weight: normal;
+}
+
+h2 
+{ 
+  text-align: left; 
+  font-family: Academy Engraved LET;
+}
+h3 { text-align: left; }
+h4 { text-align: left; }
+h5 { text-align: left; }
+h6 { text-align: left; }
+
+
+
+nav#toc ol,
+nav#landmarks ol { padding: 0; margin-left: 1em; }
+nav#toc ol li,
+nav#landmarks ol li { list-style-type: none; margin: 0; padding: 0; }
+a.footnote-ref { vertical-align: super; font-size: 10px;}
+em, em em em, em em em em em { font-style: italic;}
+em em, em em em em { font-style: normal; }
+code{ white-space: pre-wrap; }
+span.smallcaps{ font-variant: small-caps; }
+span.underline{ text-decoration: underline; }
+q { quotes: "“" "”" "‘" "’"; }
+div.column{ display: inline-block; vertical-align: top; width: 50%; }
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+
+
+pre 
+{
+  padding: 4px;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: 8px;
+  overflow: auto;
+  border-radius: 1px;
+  font-family: monospace; font-size: 5px; font-style: normal; font-variant: normal; font-weight: 100; line-height: 5px;
+}
+
+.subhead::first-letter 
+{
+  initial-letter: 2;
+}
+
+blockquote 
+{
+  background: #f9f9f9;
+  border-left: 2px solid #ccc;
+  border-right: 2px solid #ccc;
+  margin: 1.5em 15px;
+  padding: 0.5em 15px;
+  quotes: "201C""201D""2018""2019";
+}
+
+blockquote:before 
+{
+  color: #ccc;
+  content: open-quote;
+  font-size: 3em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+
+blockquote:after 
+{
+  color: #ccc;
+  content: close-quote;
+  font-size: 3em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+
+blockquote p 
+{
+  display: inline;
+}
+
+
+/*p.first-para:first-letter 
+{
+  font-size: 50px;
+  display: block;
+  float: top;
+  line-height: 0.5;
+  margin: 15px 2px 10px 0;
+  color: ForestGreen;
+  font-family: "Academy Engraved LET";
+}*/
+
+p.first-para:first-letter 
+{
+  color: green;
+  margin: 0 2px 10px 0;
+
+  font-family: "Academy Engraved LET";
+  float: left;
+  font-size: 4rem;
+  line-height: 1;
+}
+
+
+
+
