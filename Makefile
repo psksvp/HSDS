@@ -1,4 +1,4 @@
-SOURCES=$(wildcard ./*.md)
+SOURCES=$(wildcard ./book*.md)
 
 outputDirs:
 	mkdir -p ./output
@@ -7,7 +7,8 @@ epub: $(SOURCES) outputDirs
 	pandoc --embed-resources  -t epub3 --css=style.epub.css \
 					--metadata title="The Heaven Sword and Dragon Saber (倚天屠龍記)" \
 					--metadata author="Jin Yong" \
-					--epub-cover-image=cover.jpeg\
+					--epub-cover-image=cover.jpeg \
+					--top-level-division=chapter \
 					-o output/HSDS.epub README.md $(SOURCES)
            
 html:  $(SRCS) outputDirs 
