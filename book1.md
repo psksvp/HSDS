@@ -2656,8 +2656,7 @@ master namely, Zhang SanFeng.
   
 
 
-# Chapter 3 - Refined for a Hundred Years the Precious Saber Creates a
-Mysterious Light
+# Chapter 3 - Refined for a Hundred Years the Precious Saber Creates a Mysterious Light
 
 (Translated by Meh)
 
@@ -3805,8 +3804,7 @@ his room.
   
 
 
-# Chapter 4 - Among the Misfortune and Disorder, the Characters Showed the
-Way
+# Chapter 4 - Among the Misfortune and Disorder, the Characters Showed the Way
 
 (Translated by Meh)
 

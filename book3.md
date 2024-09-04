@@ -1,5 +1,4 @@
-# Chapter 21 - Solving Problems, Resolving Disputes and Combating the 6
-Forces
+# Chapter 21 - Solving Problems, Resolving Disputes and Combating the 6 Forces
 
 (Translated by Faerie Queen and Meh)
 
@@ -3274,7 +3273,7 @@ examination.
   
 In a low voice Yin Liting said, “It’s just like San Ge \[third (older)
 brother\]; Shaolin Sect … ‘jin gang zhi dao’ \[diamond finger blade.
-# Chapter 3 has it as ‘Golden Steel Finger’; ‘jin gang’ could also mean ‘a
+Chapter 3 has it as ‘Golden Steel Finger’; ‘jin gang’ could also mean ‘a
 very hard substance’. I am not sure why it has an extra ‘blade’ (? )
 character; I think it was a mistake, it should be ‘strength/power’ ( ? )
 character.\] … injured by finger strength.” Zhang Wuji recalled his
@@ -16769,12 +16768,12 @@ not have anything to be worried about even if he was three times or five
 times his age. We were anxious only over how they were going to have
 their duel.  
   
-# Chapter 30 – Part 3 On the next day, in front of everybody Han Qianye
-first explained the agreement of the past, cornering Yang Jiaozhu so
-that he could not deny his promise, and then he presented his request.
-To everybody’s surprise, he wanted to fight against Yang Jiaozhu inside
-the ‘bi shui han tan’ \[bluish green water cold pool\] on the Brightness
-Peak to decide victory or defeat.  
+On the next day, in front of everybody Han Qianye first explained the 
+agreement of the past, cornering Yang Jiaozhu so that he could not deny 
+his promise, and then he presented his request. To everybody’s surprise, 
+he wanted to fight against Yang Jiaozhu inside the ‘bi shui han tan’ 
+\[bluish green water cold pool\] on the Brightness Peak to decide victory
+or defeat.  
   
 As he said that, everybody was shocked. The water of ‘bi shui han tan’
 was really cold, penetrating the bones. Even in the heat of the summer

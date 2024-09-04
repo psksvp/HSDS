@@ -4024,9 +4024,7 @@ reliance on such information.
 
 # Chapter 13 - No Regrets for Second Chances
 
-(Translated by Huang Yushi\*, SmokeyTheBear and Qiu Shuyi)
-
-\*Courtesy of [Wuxiapedia.com](http://wuxiapedia.com)
+(Translated by Huang Yushi, SmokeyTheBear and Qiu Shuyi)
 
 ![](images/book2/00005.jpg)
 
@@ -5318,7 +5316,7 @@ her mother’s grave. That done, the two children left Butterfly Valley.
 
  
 
-# Chapter 14 - Meeting Zhongshan Wolf\* Along the Way
+# Chapter 14 - Meeting Zhongshan Wolf Along the Way
 
 (Translated by Efflix, IcyFox and Foxs, Edited by Eliza Bennet)
 
@@ -7703,7 +7701,7 @@ happened. As soon as the wolf was inside the sack, the tree shouted,
 The story supposedly happened on Zhongshan, hence the term 'Zhongshan
 Wolf' is used to describe someone who repay kindness with evil.
 
-# Chapter 15 –Strange Scheme and Secret Intrigue Like in a Dream
+# Chapter 15 - Strange Scheme and Secret Intrigue Like in a Dream
 
 (Translated by Foxs, Edited by Eliza Bennet)
 
