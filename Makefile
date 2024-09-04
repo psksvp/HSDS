@@ -9,7 +9,6 @@ epub: $(SOURCES) outputDirs
 					--metadata author="Jin Yong" \
 					--epub-cover-image=cover.jpeg \
 					--top-level-division=chapter \
-					--epub-embed-font=./fonts/*.* \
 					-o output/HSDS.epub README.md $(SOURCES)
            
 html:  $(SRCS) outputDirs
